@@ -1,5 +1,5 @@
 import cv2
-import easyocr
+import easyocr #type : ignore
 
 
 reader = easyocr.Reader(['fr', 'en'])
@@ -14,3 +14,4 @@ def easyOCR_extract(IMAGE_PATH, ):
     result = reader.readtext(img_rgb, detail = 0, paragraph=True)
     result = " ".join(result)
     return result
+ 
