@@ -1,4 +1,5 @@
 
+import os
 import cv2
 from typing import Dict
 
@@ -123,8 +124,11 @@ def addDictionary(mot):
 
 
 #create the nested dictionnaries 
-
-with open("/Users/ramisafi/Desktop/Research Journal Project/Publicity Subject Extraction/common/Dictionnaries/Lst_Scr_min_sans_accent.txt", "rt") as myfile:
+Lst_Scr_min_sans_accent_path = "/Users/ramisafi/Downloads/Research Journal Project/Publicity_Subject_Extraction/common/Dictionnaries/Lst_Scr_min_sans_accent.txt"
+with open(Lst_Scr_min_sans_accent_path, "rt") as myfile:
+    if not os.path.exists(Lst_Scr_min_sans_accent_path):
+        print(f"File not found: {Lst_Scr_min_sans_accent_path}")
+        return False
     for line in myfile:
 
         #index = line.find("=")

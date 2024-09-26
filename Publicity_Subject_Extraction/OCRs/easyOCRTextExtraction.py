@@ -1,7 +1,6 @@
 import cv2
 import easyocr #type : ignore
 
-
 reader = easyocr.Reader(['fr', 'en'])
 
 def easyOCR_extract(IMAGE_PATH, ):

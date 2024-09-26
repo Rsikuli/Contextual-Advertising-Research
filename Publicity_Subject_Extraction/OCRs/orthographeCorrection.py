@@ -1,6 +1,6 @@
 
 from easyOCRTextExtraction import easyOCR_extract
-from common.tools import precision_recall, real_words_check_nested, special_caracters_remove
+from Publicity_Subject_Extraction.common.tools import precision_recall, real_words_check_nested, special_caracters_remove
 from typing import List, Any
 from common.dictionariesCreation import letter_dict #type: ignore
 
@@ -23,7 +23,7 @@ counter = 0
 with open("new_script.rtf", "rt") as myfile:
     for line in myfile:
         
-        if (counter >= 40):
+        if (counter >= 5):
             break
         counter +=1
 
