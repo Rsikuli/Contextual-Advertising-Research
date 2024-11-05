@@ -1,0 +1,359 @@
+Semantic Search Results for Summary with OCR
+==================================================
+Query: 'Les chats et les chiens sont confrontés à des problèmes rénaux après avoir ingéré des plantes toxiques, a déclaré le Centre antipoison pour animaux (ASPCA).'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 19.0506)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 19.6884)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 19.7019)
+Match 4: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 20.8617)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 20.9393)
+-----
+Query: 'Les responsables de la municipalité amie des aînés de Sutton, dans le nord-est du Québec, ont mis à jour leur politique et son plan d’action.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 12.5317)
+Match 2: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 13.9481)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 14.8797)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 15.1087)
+Match 5: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 15.1370)
+-----
+Query: 'La municipalité de Cowansville, dans le nord-est de l’Angleterre, a présenté un plan d’action visant à développer la sécurité alimentaire de la communauté.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 13.5508)
+Match 2: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 14.8265)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 14.9012)
+Match 4: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 15.5263)
+Match 5: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 15.5737)
+-----
+Query: 'La pop star Pink a été désignée parmi les 100 plus belles femmes du monde par le magazine People.'
+Match 1: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 22.0020)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 22.8409)
+Match 3: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 23.8595)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 24.6446)
+Match 5: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 25.0118)
+-----
+Query: 'La pop star américaine Taylor Swift a été victime d’un scandale de plagiat.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 25.1155)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 25.8206)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 27.6067)
+Match 4: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 28.9245)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 29.0753)
+-----
+Query: 'En tant que nutritionniste, je n’ai pas pu mieux choisir.'
+Match 1: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 18.8314)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 20.3722)
+Match 3: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 20.4266)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 21.5246)
+Match 5: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 21.6441)
+-----
+Query: 'L’Amour est dans le pré est une nouvelle version de l’animateur britannique Marie-Ève Janvier.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 13.0865)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 13.8562)
+Match 3: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 13.8742)
+Match 4: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 14.1512)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 14.9734)
+-----
+Query: 'L’acteur algérien Jean-Pierre Bacri a été nommé meilleur acteur à l’issue d’une cérémonie de remise des Oscars.'
+Match 1: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 18.7882)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 19.7178)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 19.7233)
+Match 4: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 19.8760)
+Match 5: 'grand 4 5 6 août prix 3r nascar 202a]' (Distance: 19.9751)
+-----
+Query: 'Rachel Grenon veut que les gens se mettent les mains dedans.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 17.0467)
+Match 2: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 17.5034)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 17.8724)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.9955)
+Match 5: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 18.1646)
+-----
+Query: 'Jean-Marc Vallée, cinéaste et réalisateur, est l’un des premiers à mettre en scène des films de longue date.'
+Match 1: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 18.5871)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 18.6372)
+Match 3: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 18.6890)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 18.6919)
+Match 5: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 18.9671)
+-----
+Query: 'Le premier ministre québécois François Legault a déclaré à l’Assemblée nationale qu’il n’avait pas accepté d’un accord avec le gouvernement de Justin Trudeau.'
+Match 1: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 14.1782)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 17.1874)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 17.8922)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 19.1583)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 19.5364)
+-----
+Query: 'Le corps policier de l’Échec s’est entretenu mardi avec des personnes soupçonnées d’avoir mis la main sur des bouteilles d'alcool fort.'
+Match 1: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 11.8992)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 12.6836)
+Match 3: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 12.7679)
+Match 4: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 13.3138)
+Match 5: 'publicité l ioniq 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec l ioniq 5 2023 en savoir plus hyundai canada ouvrir 10 mia' (Distance: 13.4851)
+-----
+Query: 'Les entreprises doivent apprendre à mieux apprécier les clients, mais avec des objectifs réalistes.'
+Match 1: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 15.8163)
+Match 2: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 16.1534)
+Match 3: 'aubaines dété jusqu 40% de rabais magasinez sur notre prix régulier marques et modèles sélectionnés' (Distance: 17.0635)
+Match 4: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 17.2054)
+Match 5: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 18.0196)
+-----
+Query: 'Dans notre série de lettres de journalistes africains, l’écrivaine et infirmière Josée Lacoursière se penche sur la décision du Conseil des soins de santé de Mauricie et Centre-du-Québec d’interdire les services 24/7.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 10.7910)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 10.8643)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 11.1164)
+Match 4: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 11.2400)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 12.4693)
+-----
+Query: 'Cork et Galway sont des noms qui résonnent d’emblée quand on évoque l’Irlande.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 30.0423)
+Match 2: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 30.5956)
+Match 3: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 30.7072)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 31.2775)
+Match 5: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 31.7712)
+-----
+Query: 'L’équipe ukrainienne de hockey pee-wee a pu rencontrer l’entraîneur du Canadien, Martin St. Louis, mardi à Montréal.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 17.6062)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.7030)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 17.8367)
+Match 4: 'granby les rendez vous presentes 0desjardins activités et spectacles extérieurs gratuits du 5 juillet au 27 août progranhation' (Distance: 17.9509)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 19.0176)
+-----
+Query: 'nan'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 18.5115)
+Match 2: 'grand 4 5 6 août prix 3r nascar 202a]' (Distance: 19.2057)
+Match 3: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 20.0389)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 20.3240)
+Match 5: 'granby les rendez vous presentes 0desjardins activités et spectacles extérieurs gratuits du 5 juillet au 27 août progranhation' (Distance: 21.1725)
+-----
+Query: 'Un homme a été tué vendredi soir dans un immeuble d’habitation à Montréal.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 14.1377)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 14.8816)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 15.3346)
+Match 4: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 15.8743)
+Match 5: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 16.4147)
+-----
+Query: 'Delphine, une jeune femme de 22 ans, s’est entretenue avec le propriétaire des Chalets sur le cap à Saint-Joachim, la province du Québec.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 13.3126)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 13.9021)
+Match 3: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 13.9252)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 13.9516)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 14.3416)
+-----
+Query: 'Le président de l’industrie québécoise de la scène, David Laferrière, a présenté un mémoire à la nation durant le Forum 2023.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 8.5175)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 8.7768)
+Match 3: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 10.8802)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 10.9516)
+Match 5: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 11.7487)
+-----
+Query: 'Le gouvernement québécois ne peut plus agir à l’aveugle dans le système de santé."'
+Match 1: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 14.4613)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 17.8402)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 19.4093)
+Match 4: 'publicité la sécurité routière embarque en savoir votre gouvernement québec 92' (Distance: 19.9805)
+Match 5: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 20.2848)
+-----
+Query: 'Le président américain Elon Musk affirme que les hybrides rechargeables sont un moyen de réduire les émissions de CO2 à cause de la concurrence.'
+Match 1: 'publicité l ioniq 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec l ioniq 5 2023 en savoir plus hyundai canada ouvrir 10 mia' (Distance: 17.5836)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.8735)
+Match 3: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 18.1313)
+Match 4: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 19.4922)
+Match 5: 'mazda cx 5 2023 avec traction intégrale activ de série meilleur choix 2023 mazda cx5 construisez votre cx 5' (Distance: 19.5238)
+-----
+Query: 'Le chanteur Mathieu Langlois s’est qualifié pour la première fois à l’émission de télévision de la saison.'
+Match 1: 'les violons du roy pentaedre valérie milot mozart et haydn vents et harpe sous la direction de jonathan cohen 1" fevrier 70 630 palais montcalm au programme concerto pour flûte et harpe de mozart 8e 802ot 87g' (Distance: 15.9379)
+Match 2: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 16.4529)
+Match 3: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 17.0410)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.0993)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 17.2763)
+-----
+Query: 'Un individu a comparu lundi à la justice de Montérégie pour trafic de drogues.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 12.6547)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 13.3089)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 14.1767)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 14.1937)
+Match 5: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 14.5447)
+-----
+Query: 'Le charqui de bœuf a été vendu sur les étagères de la Société québécoise du cannabis.'
+Match 1: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 18.3420)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 18.6226)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 19.1713)
+Match 4: 'goûtez aux saveurs locales de québec débutez votre voyage culinaire quebec' (Distance: 19.8975)
+Match 5: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 20.9323)
+-----
+Query: 'Après dix ans à la tête de l’Autorité des marchés financiers (AMF), Louis Moristeet accrochera son chapeau de pdg le 1er juillet prochain. Une décision réfléchie, qu’il conclut de façon sereine.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 12.1718)
+Match 2: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 12.7010)
+Match 3: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 13.2510)
+Match 4: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 13.2586)
+Match 5: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 13.3601)
+-----
+Query: 'Les travaux ont commencé à être retardés dans la ville de Grandes-fourches, dans le nord-est de la République démocratique du Congo.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 15.8530)
+Match 2: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 16.6819)
+Match 3: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 17.1166)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.3197)
+Match 5: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 18.3143)
+-----
+Query: 'Carolane Fournier, une employée de l’Université Laval du Québec, a plaidé coupable de fabrication de faux documents.'
+Match 1: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 14.0944)
+Match 2: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 14.0960)
+Match 3: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 14.4898)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 14.9763)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 15.0009)
+-----
+Query: 'Le tremblement de terre qui a fait près de 40 morts en Syrie s’est accentué mardi soir, selon Antonio Guterres, le secrétaire général de l’ONU.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 9.8354)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 10.3977)
+Match 3: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 11.6782)
+Match 4: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 12.0556)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 12.4794)
+-----
+Query: 'Les États-Unis affirment qu’ils n’ont pas retrouvé de débris dans les eaux gelées après avoir détruit deux objets avions de chasse.'
+Match 1: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 17.7577)
+Match 2: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 18.1723)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 18.2175)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 19.0028)
+Match 5: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 19.3950)
+-----
+Query: 'Le président américain Joe Biden s’est entretenu lundi avec la gouverneure de l’État du Michigan, Gretchen Whitmer, après les coups de feu qui ont fait trois morts et cinq blessés.'
+Match 1: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 14.9608)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 16.6591)
+Match 3: 'présentation de la 38 mouture du parc technologique 40/55 27 juin 19 | webdiffusion séance en savoir plus' (Distance: 16.9645)
+Match 4: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 16.9746)
+Match 5: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 17.4273)
+-----
+Query: 'Dans un pays quotidiennement meurtri par les fusillades et où les armes à feu prolifèrent, le président américain a annoncé avoir promis des effectifs supplémentaires aux autorités après qu’un tireur eut tué.'
+Match 1: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 14.0213)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 14.0372)
+Match 3: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 14.8820)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 15.0594)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 15.1500)
+-----
+Query: 'Nikki Haley est candidate à l’élection présidentielle des États-Unis.'
+Match 1: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 27.6709)
+Match 2: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 28.8132)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 28.9661)
+Match 4: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 29.2214)
+Match 5: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 29.3907)
+-----
+Query: 'Les entreprises doivent investir dans des bonnes affaires pendant la récession.'
+Match 1: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 22.8576)
+Match 2: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 23.2226)
+Match 3: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 23.9007)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 24.0552)
+Match 5: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 24.2115)
+-----
+Query: 'Le commerce en ligne a explosé ces dernières années.'
+Match 1: 'internet l internet prix brillant propulsé par la fibre cogeco partir de 45 des conditions obtenez votre offre' (Distance: 20.1502)
+Match 2: 'publicité ix votre nouveau tucson 2023 ouvrir équipé comme la connectivité sans fil et le chargeur sans fil livrables hyundai hyundai canada' (Distance: 23.6836)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 24.1359)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 24.3644)
+Match 5: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 25.2765)
+-----
+Query: 'Une comédie de télévision avec huit épisodes sera diffusée à partir d’octobre prochain.'
+Match 1: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 18.9495)
+Match 2: 'granby les rendez vous presentes 0desjardins activités et spectacles extérieurs gratuits du 5 juillet au 27 août progranhation' (Distance: 20.8805)
+Match 3: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 21.0380)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 22.4040)
+Match 5: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 22.6852)
+-----
+Query: 'Une comédie de télévision avec huit épisodes sera diffusée à partir d’octobre prochain.'
+Match 1: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 18.9495)
+Match 2: 'granby les rendez vous presentes 0desjardins activités et spectacles extérieurs gratuits du 5 juillet au 27 août progranhation' (Distance: 20.8805)
+Match 3: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 21.0380)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 22.4040)
+Match 5: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 22.6852)
+-----
+Query: 'Après dix ans à la tête de l’Autorité des marchés financiers (AMF), Louis Moristeet accrochera son chapeau de pdg le 1er juillet prochain. Une décision réfléchie, qu’il conclut de façon sereine.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 12.1718)
+Match 2: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 12.7010)
+Match 3: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 13.2510)
+Match 4: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 13.2586)
+Match 5: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 13.3601)
+-----
+Query: 'Joanie Martin a commencé à donner des dons aux personnes en situation d’itinérance qui ont campé dans les parcs de Granby, dans le nord-est de la République démocratique du Congo.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 16.8334)
+Match 2: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 19.2169)
+Match 3: 'pour demain le climat est aux solutions musée dela civilisation' (Distance: 19.2955)
+Match 4: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 19.4472)
+Match 5: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 20.0050)
+-----
+Query: 'La mort de Norah et Romy était une obsession.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 17.6652)
+Match 2: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 21.2559)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 22.1354)
+Match 4: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 23.7530)
+Match 5: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 25.1713)
+-----
+Query: 'La ministre québécoise du Sport, du Loisir et du Plein air, Caroline Charest, veut abolir les bagarres au hockey junior.'
+Match 1: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 17.0661)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 17.1015)
+Match 3: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 17.2123)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 18.3818)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 18.9175)
+-----
+Query: 'L’ONU a lancé mardi un appel aux dons de près de 400 millions de.dollars pour aider les victimes en Syrie pendant trois mois.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 17.6209)
+Match 2: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 18.1744)
+Match 3: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 18.8729)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 19.1395)
+Match 5: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete' (Distance: 19.3831)
+-----
+Query: 'Nikki Haley est la première candidate notable à l’élection présidentielle américaine.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 27.2758)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 28.3922)
+Match 3: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 28.4151)
+Match 4: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 28.5965)
+Match 5: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca' (Distance: 29.1441)
+-----
+Query: 'L’alcool est le sujet brûlant de l’heure.'
+Match 1: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 12.4422)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 16.5213)
+Match 3: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 17.0389)
+Match 4: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 17.1193)
+Match 5: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 17.2268)
+-----
+Query: 'Les jeunes joueurs de l’équipe ukrainienne de hockey pee-wee ont été accueillés par leur entraîneur Martin St. Louis.'
+Match 1: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 18.9915)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 19.2001)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 20.2553)
+Match 4: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 20.7197)
+Match 5: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 20.8702)
+-----
+Query: 'L’illusion à laquelle le cerveau humain succombe peut susciter un excès de confiance.'
+Match 1: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 14.9634)
+Match 2: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 17.8697)
+Match 3: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 18.0294)
+Match 4: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 19.4307)
+Match 5: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 20.1502)
+-----
+Query: 'Après quatre mois à peine, Natasha a connu l’occupation russe dans sa ville, Nova Kakhovka.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 22.0645)
+Match 2: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 22.3258)
+Match 3: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 22.8020)
+Match 4: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit' (Distance: 22.9170)
+Match 5: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation' (Distance: 23.6728)
+-----
+Query: 'Un planchiste chinois est décédé samedi à l’âge de 21 ans après avoir été tué lors d’un accident de ski.'
+Match 1: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 20.7703)
+Match 2: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue' (Distance: 21.1774)
+Match 3: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 21.9853)
+Match 4: 'publicité l ioniq 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec l ioniq 5 2023 en savoir plus hyundai canada ouvrir 10 mia' (Distance: 22.0537)
+Match 5: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir' (Distance: 22.2881)
+-----
+Query: 'Les parents de deux enfants tués par un bus de ville dans une garderie à l’âge de six ans ont été reçus par le parlement québécois.'
+Match 1: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des' (Distance: 17.0745)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 17.1766)
+Match 3: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins' (Distance: 18.1537)
+Match 4: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 18.3236)
+Match 5: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence' (Distance: 18.4620)
+-----
+Query: ' Parti'
+Match 1: 'grand 4 5 6 août prix 3r nascar 202a]' (Distance: 9.6892)
+Match 2: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada' (Distance: 9.9149)
+Match 3: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7' (Distance: 10.4088)
+Match 4: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo' (Distance: 10.4160)
+Match 5: 'programmation automne 2023 palais consulter notre programmation complète' (Distance: 10.4548)
+-----
+Query: ' quebec'
+Match 1: 'goûtez aux saveurs locales de québec débutez votre voyage culinaire quebec' (Distance: 15.4588)
+Match 2: 'publicité lix québec ouvrir entreprises québécoise' (Distance: 16.6247)
+Match 3: 'publicité vous êtes pas tout seul sur la route en savoir plus ville de québec' (Distance: 22.7019)
+Match 4: 'publicité vous êtes pas tout seul sur la route en savoir plus ville de québec' (Distance: 22.7019)
+Match 5: 'publicité musée national des beaux arts du québec lart 9 ~ au mnbaq' (Distance: 25.8368)
+-----

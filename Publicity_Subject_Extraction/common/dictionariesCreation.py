@@ -1,6 +1,5 @@
 
 import os
-import cv2
 from typing import Dict
 
 #addDictionnary definition
@@ -64,10 +63,22 @@ def special_caracters_remove(min_list):
 
 # Function to add words to the dictionary based on their first letter
 def addDictionary(mot):
+    """
+    Adds a word to a dictionary based on its first letter, accounting for special character variations.
+    Args:
+        mot (str): The word to be added to the dictionary.
+    Returns:
+        None
+    Notes:
+        - The function normalizes the first letter of the word to handle special characters such as 'ä', 'á', 'à', etc.
+        - If the first letter is not an alphabetic character, the function attempts to use the second letter (if the word length is greater than 2).
+        - The word is added to a global dictionary `letter_dict` under the normalized first letter as the key.
+        - If the word is already present in the dictionary, it is not added again.
+    """
     first_letter = mot[0]
     
     if first_letter.isalpha():
-        dictoch = {'a':['ä', 'á', 'à', 'æ', 'â', 'å'], 'e':['é', 'è', 'ê', 'ë'], 'i':['î', 'ï', 'í'], 'u':['ù', 'ü', 'û'], 'o':['ð', 'œ', 'ô', 'ö', 'õ', 'ø', 'ó'], 'c':['ç'], 'b':['ß'], 'n':['ñ']}
+        #dictoch = {'a':['ä', 'á', 'à', 'æ', 'â', 'å'], 'e':['é', 'è', 'ê', 'ë'], 'i':['î', 'ï', 'í'], 'u':['ù', 'ü', 'û'], 'o':['ð', 'œ', 'ô', 'ö', 'õ', 'ø', 'ó'], 'c':['ç'], 'b':['ß'], 'n':['ñ']}
         #build a dictionnary for with key as the right letter and the values as all the other mutations this letter can take  
         if first_letter in ('ä', 'á', 'à', 'æ', 'â', 'å'):
             first_letter = 'a'
@@ -87,7 +98,7 @@ def addDictionary(mot):
             first_letter = 'n'
         if mot not in letter_dict[first_letter]:
             letter_dict[first_letter][mot] = 0
-            print(f"'{mot}' is successfully added to the dictionary: {first_letter}")
+            #print(f"'{mot}' is successfully added to the dictionary: {first_letter}")
         else:
             pass
             #print(f"'{mot}' is already in the dictionary.")
@@ -114,13 +125,14 @@ def addDictionary(mot):
             if first_letter.isalpha():
                 if mot2 not in letter_dict[first_letter]:
                     letter_dict[first_letter][mot2] = 0
-                    print(f"'{mot2}' is successfully added to the dictionary: {first_letter}")
+                    #print(f"'{mot2}' is successfully added to the dictionary: {first_letter}")
                 else:
                     pass
                     #print(f"'{mot2}' is already in the dictionary.")
         
         else:
-            print(f"'{mot}' can't be added")
+            pass
+            #print(f"'{mot}' can't be added")
 
 
 #create the nested dictionnaries 
@@ -128,7 +140,6 @@ Lst_Scr_min_sans_accent_path = "/Users/ramisafi/Downloads/Research Journal Proje
 with open(Lst_Scr_min_sans_accent_path, "rt") as myfile:
     if not os.path.exists(Lst_Scr_min_sans_accent_path):
         print(f"File not found: {Lst_Scr_min_sans_accent_path}")
-        return False
     for line in myfile:
 
         #index = line.find("=")
@@ -138,9 +149,12 @@ with open(Lst_Scr_min_sans_accent_path, "rt") as myfile:
         mot = line[:len(line)-1].lstrip()
         addDictionary(mot)
         
+nom_file_path = "/Users/ramisafi/Downloads/Research Journal Project/Publicity_Subject_Extraction/common/Dictionnaries/Nom.csv"
 
+with open(nom_file_path, 'rt') as csvfile:
+    if not os.path.exists(nom_file_path):
+        print(f"File not found: {nom_file_path}")
 
-with open("/Users/ramisafi/Desktop/Research Journal Project/Publicity Subject Extraction/common/Dictionnaries/Nom.csv", 'r') as csvfile:
     lines = csvfile.readlines()
     for line in lines:
         data = line.strip().split(',')
@@ -148,8 +162,7 @@ with open("/Users/ramisafi/Desktop/Research Journal Project/Publicity Subject Ex
             second_element = data[1]
             #print(second_element)
             if not second_element[:3].isnumeric():
-                if len(second_element)>1:
-                    
+                if len(second_element) > 1:
                     lstUP = second_element.split(' ')
                     #print(lstUP)
                     lst = lowerList(lstUP)
@@ -157,7 +170,7 @@ with open("/Users/ramisafi/Desktop/Research Journal Project/Publicity Subject Ex
                     
                     #print(finalList)
                     for item in finalList:
-                        if len(item)>1:
+                        if len(item) > 1:
                             addDictionary(item)
                     
 
@@ -174,6 +187,6 @@ addition = ["hyundai", "hhyundai", "kona", "publicité", "tucson", "coops", "fie
 for mot in addition:
     addDictionary(mot)
 
-
+print("Dictionnaries have been successfully created.")
 
 

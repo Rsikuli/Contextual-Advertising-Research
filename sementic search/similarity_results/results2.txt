@@ -1,0 +1,254 @@
+Semantic Search Results
+==================================================
+Query: 'hyundai canada hhyundai le nouveau kona redessiné sécurité sans compromis avec assistance la prévention des collisions dans l angle mort ouvrir'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 9.5866)
+Match 2: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 13.0691)
+Match 3: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 13.1234)
+Match 4: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.5781)
+Match 5: 'Un suspect recherché se livre aux policiers' (Distance: 14.5188)
+-----
+Query: 'goûtez aux saveurs locales de québec débutez votre voyage culinaire quebec'
+Match 1: 'De la France au Québec, une longue histoire d’amour' (Distance: 13.2232)
+Match 2: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 14.5638)
+Match 3: 'Le Canadien accueille l’équipe de hockey pee-wee ukrainienne' (Distance: 15.0484)
+Match 4: 'Le Canadien a reçu l’équipe de hockey pee-wee ukrainienne' (Distance: 16.6477)
+Match 5: 'Un septuagénaire retrouvé sans vie dans son logement incendié à Montréal' (Distance: 17.1623)
+-----
+Query: 'pour demain le climat est aux solutions musée dela civilisation'
+Match 1: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 11.9382)
+Match 2: 'Du jerky infusé au pot à la SQDC' (Distance: 11.9980)
+Match 3: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 13.0501)
+Match 4: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.4810)
+Match 5: 'Un septuagénaire retrouvé sans vie dans son logement incendié à Montréal' (Distance: 13.9703)
+-----
+Query: 'publicité la sécurité routière embarque en savoir votre gouvernement québec 92'
+Match 1: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 14.0031)
+Match 2: 'Du jerky infusé au pot à la SQDC' (Distance: 15.6377)
+Match 3: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 18.5595)
+Match 4: 'Charest cherchera l’appui des provinces pour interdire les bagarres au hockey junior' (Distance: 20.0291)
+Match 5: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 20.1093)
+-----
+Query: 'publicité les as de l info qui fait grandir inscrivez vos enfants ici avec le soutien de une initiative les coops de linformation desjardins'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 12.9352)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 14.1153)
+Match 3: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 15.1474)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 16.1476)
+Match 5: 'Unis les dimanches pour les démunis' (Distance: 16.4113)
+-----
+Query: 'achetez une mustang mach premium 2023 propulsion partir de 53 699 ' incluant maintenant les rabais construit avec fierté magasinez maintenant'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 12.9017)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 15.9559)
+Match 3: 'Les boutiques ont encore leur place' (Distance: 18.8699)
+Match 4: 'Les hybrides rechargeables nous feront-elles manquer nos cibles de GES ?' (Distance: 19.6627)
+Match 5: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 19.6786)
+-----
+Query: 'publicité ix votre nouveau tucson 2023 ouvrir équipé comme la connectivité sans fil et le chargeur sans fil livrables hyundai hyundai canada'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 12.6972)
+Match 2: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 14.1620)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 15.4358)
+Match 4: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 16.4959)
+Match 5: 'Les boutiques ont encore leur place' (Distance: 16.9651)
+-----
+Query: 'les débardeurs veulent juste travailler sans risquer la sécurité de tous est trop demander la société des arrimeurs de québec en fout scfr comprendre naden le conflit'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 9.6642)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 10.9076)
+Match 3: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 11.5852)
+Match 4: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 12.3018)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 12.4515)
+-----
+Query: 'publicité vous êtes pas tout seul sur la route en savoir plus ville de québec'
+Match 1: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 13.3182)
+Match 2: 'De la France au Québec, une longue histoire d’amour' (Distance: 17.5554)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 17.7229)
+Match 4: 'Du jerky infusé au pot à la SQDC' (Distance: 17.9686)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 18.1089)
+-----
+Query: 'publicité vous êtes pas tout seul sur la route en savoir plus ville de québec'
+Match 1: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 13.3182)
+Match 2: 'De la France au Québec, une longue histoire d’amour' (Distance: 17.5554)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 17.7229)
+Match 4: 'Du jerky infusé au pot à la SQDC' (Distance: 17.9686)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 18.1089)
+-----
+Query: 'aubaines dété jusqu 40% de rabais magasinez sur notre prix régulier marques et modèles sélectionnés'
+Match 1: 'Les boutiques ont encore leur place' (Distance: 15.2415)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 17.3271)
+Match 3: 'Du jerky infusé au pot à la SQDC' (Distance: 17.3614)
+Match 4: 'Comment améliorer la satisfaction de la clientèle' (Distance: 17.8674)
+Match 5: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 18.3169)
+-----
+Query: 'publicite apéros de broadway tous les vendredis de 15h 19h'
+Match 1: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.4449)
+Match 2: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 13.8402)
+Match 3: 'Du jerky infusé au pot à la SQDC' (Distance: 13.9797)
+Match 4: 'Unis les dimanches pour les démunis' (Distance: 16.7953)
+Match 5: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 18.3992)
+-----
+Query: 'mazda cx 5 2023 avec traction intégrale activ de série meilleur choix 2023 mazda cx5 construisez votre cx 5'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 11.3132)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.6951)
+Match 3: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 15.5932)
+Match 4: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 16.4594)
+Match 5: 'Les hybrides rechargeables nous feront-elles manquer nos cibles de GES ?' (Distance: 16.6078)
+-----
+Query: 'publicité lix québec ouvrir entreprises québécoise'
+Match 1: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage' (Distance: 11.9113)
+Match 2: 'De la France au Québec, une longue histoire d’amour' (Distance: 15.6452)
+Match 3: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 16.7703)
+Match 4: 'Minute de silence pour la tragédie de Laval au Salon bleu' (Distance: 17.8573)
+Match 5: 'Un septuagénaire retrouvé sans vie dans son logement incendié à Montréal' (Distance: 17.8661)
+-----
+Query: 'les coops de l information présentent 8582 82888 frissonnez de terreur devant la toponymie dici un dossier effrayant devorer des maintenant abonnez vous partir de 9 95s/mois les coops de linformation'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 6.9336)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 7.8919)
+Match 3: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 10.7967)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 11.3525)
+Match 5: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 12.2241)
+-----
+Query: 'informez vous sur les dates visant votre rue appelez dès maintenant 2sageas4 journées collectives de traitements contre les terrain complet devant derrière et côtés 450359 9111 9mmg sans frais 1 877 579 9111 le pionnier en entretien de pelouse biologique au québec achetez maintenant par adresse plus taxes 100% blancs prix pour résidence 70 000 pir visa direct payable dans la des'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 9.8297)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 10.7307)
+Match 3: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris' (Distance: 12.2240)
+Match 4: 'Unis les dimanches pour les démunis' (Distance: 12.4279)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 12.5082)
+-----
+Query: 'programmation automne 2023 palais consulter notre programmation complète'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 8.1935)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 10.4204)
+Match 3: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 11.0553)
+Match 4: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 12.1590)
+Match 5: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 12.9342)
+-----
+Query: 'publicite livraison 2025 63 tous les condos réalisàtion une vue sur leau structure de dresse interieur terrasse porte patio 47 28 unites centrale piscines et réservez des maintenant coeur haut oe et bien pavillon des ventes 819 374 4044 1500 avenue des draveurs com 819 698 8883 mg cbtec odete'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 8.7407)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 12.5099)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.2344)
+Match 4: 'Les boutiques ont encore leur place' (Distance: 14.9065)
+Match 5: 'Un suspect recherché se livre aux policiers' (Distance: 14.9215)
+-----
+Query: 'publicité 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec 5 2023 en savoir plus 5 ouvrir hyundai hyundai canada'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 7.5156)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 9.3142)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 9.8156)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 9.8284)
+Match 5: 'La Maison-Blanche s’efforce de dégonfler l’affaire des objets volants' (Distance: 10.8482)
+-----
+Query: 'publicité hyundai l ioniq 5 de hyundai faites l expérience de l et de l ioniq 5 le ve redéfini visiter le site 10 1 0 5'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 14.2945)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 16.6486)
+Match 3: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 17.2869)
+Match 4: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 17.8460)
+Match 5: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 18.7417)
+-----
+Query: 'publicité l ioniq 5 2023 100% électrique découvre le wah des véhicules électriques hyundai avec l ioniq 5 2023 en savoir plus hyundai canada ouvrir 10 mia'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 10.1062)
+Match 2: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 12.4378)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 12.9876)
+Match 4: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 13.5120)
+Match 5: 'La Maison-Blanche s’efforce de dégonfler l’affaire des objets volants' (Distance: 15.3143)
+-----
+Query: 'réforme drainville = 2 un de fumée drainville concentrez vous 25 fae sur la négo'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 7.9426)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 9.6866)
+Match 3: 'Boire moins, boire mieux' (Distance: 10.6442)
+Match 4: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 12.4248)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 13.3815)
+-----
+Query: 'publicite du 5 juillet au 12 août 2023 maison de la culture francis brisson objectif ter nec paquin anne trudel de david saint jacques texte en bayan culture canadà @7'
+Match 1: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 8.3216)
+Match 2: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 10.1780)
+Match 3: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 10.4606)
+Match 4: 'Du jerky infusé au pot à la SQDC' (Distance: 10.5534)
+Match 5: 'De la France au Québec, une longue histoire d’amour' (Distance: 10.5838)
+-----
+Query: 'publicité festivol 2e8 de 9 au 13 août'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 20.1337)
+Match 2: 'Unis les dimanches pour les démunis' (Distance: 20.2117)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 20.6023)
+Match 4: 'Le restaurant Pavane cambriolé' (Distance: 21.9735)
+Match 5: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 22.5060)
+-----
+Query: 'internet l internet prix brillant propulsé par la fibre cogeco partir de 45 des conditions obtenez votre offre'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 14.7301)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 15.4908)
+Match 3: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 16.4623)
+Match 4: 'Boire moins, boire mieux' (Distance: 19.8744)
+Match 5: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 20.0535)
+-----
+Query: 'granby les rendez vous presentes 0desjardins activités et spectacles extérieurs gratuits du 5 juillet au 27 août progranhation'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 12.5633)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 13.7052)
+Match 3: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 14.0484)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 14.2033)
+Match 5: 'Unis les dimanches pour les démunis' (Distance: 14.5259)
+-----
+Query: 'publicité musée national des beaux arts du québec lart 9 ~ au mnbaq'
+Match 1: 'De la France au Québec, une longue histoire d’amour' (Distance: 13.0606)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 13.5945)
+Match 3: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 13.9013)
+Match 4: 'Du jerky infusé au pot à la SQDC' (Distance: 13.9508)
+Match 5: 'Minute de silence pour la tragédie de Laval au Salon bleu' (Distance: 14.1826)
+-----
+Query: '25" édition granby couleurs urbaines symposium en arts visuels 28 29 et 30 juillet entrée 1 gratuite 1 parc miner granby vendredi 12 17 samedi 10 17 dimanche 10 17 programmation complète'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 14.2271)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 14.5845)
+Match 3: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène' (Distance: 17.2658)
+Match 4: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 17.4797)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 17.6161)
+-----
+Query: 'publicite jai 25 mai de theatre au 10 juin lemeilleur des arts vivants anna ces trains qui foncent sur moi 5 et juin choisissez le prix de vos billets 478 338 17 0 qc ca'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 11.1646)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 11.7845)
+Match 3: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 11.8474)
+Match 4: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 13.0682)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 13.8046)
+-----
+Query: 'saint creux du bonheur super promo moins de 30 ans 358 par [g84958ue'
+Match 1: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 10.2910)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 10.8127)
+Match 3: 'Du jerky infusé au pot à la SQDC' (Distance: 11.0250)
+Match 4: 'Unis les dimanches pour les démunis' (Distance: 12.3297)
+Match 5: 'Boire moins, boire mieux' (Distance: 12.6374)
+-----
+Query: 'grand 4 5 6 août prix 3r nascar 202a]'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 8.9649)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 10.5218)
+Match 3: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 11.6199)
+Match 4: 'Mathieu Langlois et Tommy Demers à La Voix' (Distance: 11.9343)
+Match 5: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 12.9163)
+-----
+Query: 'présentation de la 38 mouture du parc technologique 40/55 27 juin 19 | webdiffusion séance en savoir plus'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 9.9971)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 12.7622)
+Match 3: 'Trois morts après qu’un tireur a ouvert le feu à l’Université d’État du Michigan, suicide du tireur' (Distance: 14.2372)
+Match 4: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 14.5598)
+Match 5: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 14.9195)
+-----
+Query: 'publicité musée national des beaux arts du québec lart 9 ~ au mnbaq'
+Match 1: 'De la France au Québec, une longue histoire d’amour' (Distance: 13.0606)
+Match 2: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 13.5945)
+Match 3: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 13.9013)
+Match 4: 'Du jerky infusé au pot à la SQDC' (Distance: 13.9508)
+Match 5: 'Minute de silence pour la tragédie de Laval au Salon bleu' (Distance: 14.1826)
+-----
+Query: 'grand velas vacances grand luxe au grand velas riviera maya transat voir les forfaits'
+Match 1: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 15.2396)
+Match 2: 'Boire moins, boire mieux' (Distance: 16.1379)
+Match 3: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier' (Distance: 16.7577)
+Match 4: 'De la France au Québec, une longue histoire d’amour' (Distance: 17.1417)
+Match 5: 'Unis les dimanches pour les démunis' (Distance: 17.2838)
+-----
+Query: 'être des explorateurs pour un jour subaru ça nous ressemble subaru est nous vos concessionnaires subaru du quebec la toute nouvelle 2024 véhicules disponibles en quantité limitée visitez votre concessionnaire participant pour tous les détails prix de détail de transpor préparation 31 5605 le modele presente est le 20 2024 (rxa cpl web voir nos offres prise constante 2073 idp |safety différence'
+Match 1: 'Du jerky infusé au pot à la SQDC' (Distance: 8.7275)
+Match 2: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois' (Distance: 10.7825)
+Match 3: 'Les boutiques ont encore leur place' (Distance: 12.3287)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 13.2388)
+Match 5: 'Les hybrides rechargeables nous feront-elles manquer nos cibles de GES ?' (Distance: 13.4596)
+-----
+Query: 'les violons du roy pentaedre valérie milot mozart et haydn vents et harpe sous la direction de jonathan cohen 1" fevrier 70 630 palais montcalm au programme concerto pour flûte et harpe de mozart 8e 802ot 87g'
+Match 1: 'L’identité du planchiste décédé à Bromont dévoilée' (Distance: 12.3447)
+Match 2: 'Du jerky infusé au pot à la SQDC' (Distance: 13.7675)
+Match 3: 'Mathieu Langlois et Tommy Demers à La Voix' (Distance: 14.7215)
+Match 4: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre' (Distance: 14.9046)
+Match 5: 'Le restaurant Pavane cambriolé' (Distance: 16.0871)
+-----

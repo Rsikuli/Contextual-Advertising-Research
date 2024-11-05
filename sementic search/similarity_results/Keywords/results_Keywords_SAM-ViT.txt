@@ -1,0 +1,359 @@
+Semantic Search Results for Keywords with SAM-ViT
+==================================================
+Query: 'éta, mine, pollen, dia, lyse, chocolat, lit, lip, hrys, thème, mar, guer, ites, palmier, gou, tier, diarrhée'
+Match 1: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 11.6824)
+Match 2: 'horloge analogique; casquette de bain; capuchon de natation; maillot; T-shirt; Chemise de tee; requin tigre; Galeocerdo cuvieri; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 12.6130)
+Match 3: 'Choisir; plectrum; plectron; nématode; ver des nématodes; vers ronds; nématode; ver des nématodes; vers ronds; balle de golf; nématode; ver des nématodes; vers ronds; cassette; balle de golf; balle de golf' (Distance: 13.0328)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 13.4482)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; masque à oxygène; pectoral; sous-égide; égis' (Distance: 13.5652)
+-----
+Query: 'Lyn, Graham, maire, ton, ton, ADO, Les, Mont, ton, Lyn, Graham, Québec'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 13.6201)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.2429)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.5970)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.5970)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 18.5755)
+-----
+Query: 'maire, wan, ville, municipalité, wan, ville, Fri, municipalité, Fri, wan, ville, wan, ville, maire, municipalité, municipalité'
+Match 1: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 14.5357)
+Match 2: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 14.9912)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.1880)
+Match 4: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 15.5981)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.4329)
+-----
+Query: 'People, Michelle, iff, Pink, Video, Music, Awards, Pink, Jennifer, Lopez, Time, Jennifer, Lopez, Ker, Washington, Bron, Hugh, Jack, man, han, Mark, Justin, Trudeau, sha, rah, Win, way, Johnson, Instagram, Johnson, rock, star'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 17.8219)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 19.4796)
+Match 3: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 19.5393)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 20.0569)
+Match 5: 'maillot; T-shirt; Chemise de tee; maillot; T-shirt; Chemise de tee; maillot; T-shirt; Chemise de tee; Raquette; Racquet; pulvérisateur de cheveux; Raquette; Racquet; sandale; Raquette; Racquet; ' (Distance: 20.2855)
+-----
+Query: 'licate, putation, ift, ike, Jon, 2016, Ken, ake, len, Calvin, Harris, Tom, les, ton, Joe, ift, Gra, Elizabeth, Hur, ley, Gra, Elizabeth, Hur, ley, Divin, Brown, Gra, 1995, Anna, ber, stein, ing, lan, Hong, Paul, New, man, Whi, ney, Houston, Bob, Kri'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 13.7037)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.1128)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.0232)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.0232)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.5766)
+-----
+Query: 'nutritionniste, kou, USS, Est, rie, ologie, dia, trie, dia, trie, cancer, USS, nutritionniste, nutrition, kou'
+Match 1: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 14.4295)
+Match 2: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 14.5213)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 14.6662)
+Match 4: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.0225)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.1612)
+-----
+Query: 'Amour, est, dans, pré, Rox, ton, Pon, télé, réalité, Marie, <unk>, Janvier, Time, Square, tournage, Att, actions, Images, Marie, <unk>, Janvier, des, monde, Amour, est, dans, pré, tour, rôles'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.0697)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.6131)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.6131)
+Match 4: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 13.1333)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 13.5483)
+-----
+Query: 'Jean, Pierre, Bac, Soleil, César, meilleur, acteur, Les, Bac, Agnès, oui, Jean, Pierre, Bac, Cast, lion, Algérie, Cannes, Jean, Pierre, Bac, Paris, Tout, simplement, Jean, Pierre, Bac, grand, pardon, acteur, Sub, way, Luc, Besson, 1987, anniversaire, inter, Jac, Cuisine, dépendance'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.0448)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 13.9006)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0224)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0224)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 14.5713)
+-----
+Query: 'Bro, mont, Canton, Est, monde, Journées, culture, ton, Rachel, Gren, ram, iste, Journées, culture, Mer, ville, Colombie, Britannique, céramique, Gren, Journées, culture'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 10.2755)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 11.8104)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 12.0770)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.2432)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.2432)
+-----
+Query: 'Jean, Marc, Vallée, Québec, Vallée, années, réalisateur, caméra, Vallée, tournage, Café, Flore, Vallée, champ, contre, champ, cinéma, direct, caméra, Vallée, Vallée'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.9933)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 13.3260)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.1558)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.1558)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.0004)
+-----
+Query: 'Ottawa, Parti, québécois, François, ault, Ottawa, François, ault, gouvernement, Parti, libéral, Parti, libéral, Québec, Marc, Tan, gua, Québec, Parti, québécois, Parti, québécois, Salon, bleu, Paul, Pierre, Pla, mond, François, ault'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 16.5319)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 19.0696)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.7178)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.7178)
+Match 5: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 19.8835)
+-----
+Query: 'est'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 6.8232)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 6.8232)
+Match 3: 'nan' (Distance: 9.7506)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 9.8459)
+Match 5: 'chronomètre; Arrêter de regarder; ' (Distance: 12.1653)
+-----
+Query: 'États, Unis, Harvard, Business, Review, Beau'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.4773)
+Match 2: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 14.5736)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8476)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8476)
+Match 5: 'bibliothèque; palais; bibliothèque' (Distance: 16.0906)
+-----
+Query: 'José, cours, ière, USS, Mauricie, Centre, Québec, contraception, José, cours, ière, José, santé, communautaire'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8197)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8197)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.3095)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.3627)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 15.7104)
+-----
+Query: 'Dublin, Gal, way, Cor, Dublin, Gal, way, Cor, Cor, Gal, way, Qui, ateur, Copenhague, Danemark, Sara, Bosnie, Her, égo, vine, Cor, Google, Cor, cathédrale, San, Francisco, comté, Cor, Cor, Titan, Cor'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 17.5308)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 18.0841)
+Match 3: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 18.3171)
+Match 4: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 18.5360)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 18.7672)
+-----
+Query: 'Tournoi, international, hockey, Québec, Montréal, Centre, Bell, ukrainien, Martin, Louis, Bru, ins, junior, Boston, Québec, Québec, hockey, Québec, Martin, Louis, Alex, Bel, ile'
+Match 1: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 20.5723)
+Match 2: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 20.6831)
+Match 3: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 21.4373)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 21.5386)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 22.8550)
+-----
+Query: 'Inter, ligne, minimum, Québec, Canada, toxico, mani'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.8743)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.8743)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 19.0313)
+Match 4: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 20.6906)
+Match 5: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 21.0243)
+-----
+Query: 'Ville, Montréal, incendie'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 30.7896)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 30.7896)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 31.8678)
+Match 4: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 32.2397)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 32.9185)
+-----
+Query: 'Québec, Québec, France, France, Nantes, bal, oire, Mal, Saint, ach, France, Saint, ach, Chalet, 2020'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 17.1389)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 18.2041)
+Match 3: 'Choisir; plectrum; plectron; pont suspendu; Amphibies; Véhicule amphibie; golfcart; chariot de golf; convertibles' (Distance: 19.5249)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 19.5915)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.6511)
+-----
+Query: 'EAU, Québec, Centre, des, congrès, Hilton, Québec, David, errière, Québec, EAU, Québec, EAU, EAU, EAU, EAU, scène'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 14.3394)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.6739)
+Match 3: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 16.7991)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 16.8089)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.1150)
+-----
+Query: 'Parti, Québécois, Parti, libéral, Québec, solidaire, Joël, eau, Québec, <unk>, les, Joël, eau, Marc, Tan, gua, Québec, solidaire, Vincent, Mari, sal'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 18.0548)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.3793)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.3793)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 20.4850)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 21.4637)
+-----
+Query: 'Tesla, 2010, Mus, Tesla, Mus, Mus, Accord, Paris, Mus'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 17.7381)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 18.6976)
+Match 3: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 18.8765)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 19.0665)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 19.2509)
+-----
+Query: 'Tommy, mer, chanteur, rock, Eure, peur, Roméo, Juliette, chanteur, Tommy, mer, Voix, Mathieu, Lang, lois, Mario, Pel, chat, Corne, ille, Fall, ing, Harry'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.9484)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.7875)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.2849)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.2849)
+Match 5: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 17.3552)
+-----
+Query: 'trafic, stupéfiants, Saint, inthe, 2022, trafic, Saint, ude, Mont, éré, gie, Saint, inthe, Mont, éré, gie'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.3890)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.3890)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 12.0703)
+Match 4: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.2279)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 12.5316)
+-----
+Query: 'Société, québécoise, cannabis, char, qui, bœuf, anglais, cannabis, Société, ont, rienne, cannabis, Québec, chocolat, comestible, cannelle, assis, Sol, char, qui, bœuf, char, qui, boeuf, prêt, cannabis, cannabis, chocolat, char, qui, bœuf'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 11.6419)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 13.8295)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 14.5807)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.7132)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.7132)
+-----
+Query: 'Louis, Mor, isse, crypto, actifs, lex, crypto, actifs, administration, provisoire'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.9262)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.9262)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.4863)
+Match 4: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 15.4963)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 15.9778)
+-----
+Query: 'Facebook, pont, Fernand, bon, Joan, Belle, rose, pont, pont, conseil, municipal, pont, pont'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 17.8608)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.8379)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.8379)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 19.3465)
+Match 5: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 19.4134)
+-----
+Query: 'Four, nier, vaccin, Registre, vaccination, Québec, vaccin, Four, nier, passeport, vaccin, Québec, Four, nier, USS, vaccin, vaccin'
+Match 1: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 16.3460)
+Match 2: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 17.0099)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 17.1159)
+Match 4: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 17.7503)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 17.9547)
+-----
+Query: 'Syrie, Antonio, terre, Syrie, Turquie, catastrophe, Turquie, Syrie, Turquie, Syrie, Ant, tremblement, terre, tremblement, terre, février'
+Match 1: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 15.3515)
+Match 2: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.6608)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.8414)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 15.8591)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.0355)
+-----
+Query: 'Washington, espion, Canada, Maison, Blanche, États, Unis, Chine, Pékin'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.2216)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.2216)
+Match 3: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 24.5105)
+Match 4: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 24.6266)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 24.8327)
+-----
+Query: 'fusillade, Maison, Blanche, Karine, Jean, Pierre, Twitter, Joe, den, Mich, igan, tch, Lan, ing, Mich, igan, Mich, igan, Mich, igan, base, ball, meurtre'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 11.5730)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.0455)
+Match 3: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 14.1806)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.3552)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.3552)
+-----
+Query: 'Mich, igan, Gre, tch, Whi, mer, Mich, igan, Lan, ing, Grands, Lac, Canada, Mich, den, Maison, Blanche, Park, land, Floride, Joe, den'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 13.2663)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 15.7033)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 16.0905)
+Match 4: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 16.4331)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.5605)
+-----
+Query: '2017, Donald, Trump, Maison, Caroline, Sud, Donald, Trump, États, Unis, Nik, ley, Nik, ley, Charles, ton, Caroline, Sud, Caroline, Sud, Joe, den, Washington, Nik, ley, Donald, Trump, Donald, Trump, Mike, ence, Mike, Pompe'
+Match 1: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 20.3956)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 21.0986)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 21.3223)
+Match 4: 'coureur; voiture de course; voiture de course; coureur; voiture de course; voiture de course; fourgonnette; cloches; rondelle; rondelle de hockey; coureur; voiture de course; voiture de course; Voiture de sport; Voiture de sport; torche; coureur; voiture de course; voiture de course; goupille de sécurité; ordinateur portatif; micro-ordinateur portatif; horloge numérique; Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM' (Distance: 21.4860)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 21.6568)
+-----
+Query: 'récession, Microsoft, Rac, ont, eur, fusion, acquisition, Royaume, fusion, acquisition, Mark, link, récession, Beau'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 17.0272)
+Match 2: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 17.2625)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 18.2814)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.5425)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.5425)
+-----
+Query: 'commerce, ligne, boutique, physique, Internet, addy, ness, boutique, physique, boutique, physique, Beau'
+Match 1: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 10.6619)
+Match 2: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 12.8438)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 13.0024)
+Match 4: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 13.0162)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 13.7069)
+-----
+Query: 'Frédéric, Pierre, Catherine, uff, ront, Angel, Cad, Marie, Hélène, beau, cher, eau, comédie, Maison, Radio, Canada, Montréal, Rica, Tro, télé, série, ume, lage, Frédéric, Pierre, Louis, Mor, isse, tte, Louis, Philippe, olet, Mélanie'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 11.9357)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 12.3742)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.9674)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.9674)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 15.0059)
+-----
+Query: 'Frédéric, Pierre, Catherine, uff, ront, Angel, Cad, Marie, Hélène, beau, cher, eau, comédie, Maison, Radio, Canada, Montréal, Rica, Tro, télé, série, ume, lage, Frédéric, Pierre, Louis, Mor, isse, tte, Louis, Philippe, olet, Mélanie'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 11.9357)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 12.3742)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.9674)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.9674)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 15.0059)
+-----
+Query: 'Louis, Mor, isse, crypto, actifs, lex, crypto, actifs, administration, provisoire'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.9262)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 12.9262)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 15.4863)
+Match 4: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 15.4963)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 15.9778)
+-----
+Query: 'bénévolat, Martin, monde, Joan, Martin, Montréal, Planète, action, Gran, Joan, Martin, Gran, Planète, action, Gran, Joan, Martin, Planète, action, Joan, Martin, asso, thérapeute'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.8405)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.8405)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 12.0169)
+Match 4: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 12.4088)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.4866)
+-----
+Query: 'Tremblay, Martin, Car, pent, ier, jumelé, monde, cor, Car, pent, ier, Tremblay, Martin, Car, pent, ier, 2020, Martin, Car, pent, ier, Martin, Car, pent, ier, Martin, Car, pent, ier'
+Match 1: 'coureur; voiture de course; voiture de course; coureur; voiture de course; voiture de course; fourgonnette; cloches; rondelle; rondelle de hockey; coureur; voiture de course; voiture de course; Voiture de sport; Voiture de sport; torche; coureur; voiture de course; voiture de course; goupille de sécurité; ordinateur portatif; micro-ordinateur portatif; horloge numérique; Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM' (Distance: 13.8299)
+Match 2: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 14.8953)
+Match 3: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.1210)
+Match 4: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 16.0457)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 16.4103)
+-----
+Query: 'Canada, Jeux, hiver, Canada, hockey, Ligue, hockey, junior, majeur, Québec, est, Canada, Europe, olympiques, Char, est, Québec, Maritime, hockey, junior, Québec, Québec, États, Unis, est, hockey, Québec, Québec'
+Match 1: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 21.5277)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 21.6561)
+Match 3: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 22.3956)
+Match 4: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 23.4201)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 24.1445)
+-----
+Query: 'Syrie, Turquie, Europe, Bab, Sal, ama, Turquie, Genève, Syrie, Turquie, Antonio, terre, Bachar, Assad, Bab, awa, Turquie, Programme, alimentaire, mondial, arma, Syrie, Turquie'
+Match 1: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 20.4719)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 20.9404)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 21.0527)
+Match 4: 'Choisir; plectrum; plectron; pont suspendu; Amphibies; Véhicule amphibie; golfcart; chariot de golf; convertibles' (Distance: 21.8230)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.9221)
+-----
+Query: 'Nik, ley, Donald, Trump, États, Unis, Donald, Trump, Nik, ley, 2018, Bret, avan, ugh, Donald, Trump, Nik, ley, Fox, News, eau, 2004, Caroline, Sud, droite'
+Match 1: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 20.3894)
+Match 2: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 20.3942)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.0424)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.0424)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 21.3322)
+-----
+Query: 'Québec, ham, Charles, Henri, ousse, gues, Art, Char, donna, canne, berg, jus, Jean, Marc, Bro, card, Chab, lis, Sainte, laire'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 12.1501)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 13.7380)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.5271)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.5271)
+Match 5: 'Choisir; plectrum; plectron; pont suspendu; Amphibies; Véhicule amphibie; golfcart; chariot de golf; convertibles' (Distance: 14.7001)
+-----
+Query: 'Tournoi, international, hockey, Québec, Montréal, Centre, Bell, ukrainien, équipe, Québec, Martin, Louis, Bru, ins, junior, Boston, Québec, Québec, Québec, Martin, Louis, Alex, Bel, ile'
+Match 1: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 20.2220)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 20.2519)
+Match 3: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 21.2116)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 21.5348)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 22.5407)
+-----
+Query: 'YouTube, Shak, ira, dans, dans, psychologie, gni, tive, kar, otto, psychologie, gni, tive, Tal'
+Match 1: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 14.2587)
+Match 2: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 14.5831)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.3426)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.3426)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.5289)
+-----
+Query: 'essa, Mol, vie, Ukraine, essa, Nova, akh, couvre, feu, essa, jaune, monde'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.6089)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.6089)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.5860)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.1290)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 15.1914)
+-----
+Query: 'Chine, Montréal, Canada, Bro, mont, Canton, Bro, mont'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 21.8982)
+Match 2: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 22.8670)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 23.0223)
+Match 4: 'Choisir; plectrum; plectron; pont suspendu; Amphibies; Véhicule amphibie; golfcart; chariot de golf; convertibles' (Distance: 23.1063)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 23.2762)
+-----
+Query: 'Québec, garderie, Parti, libéral, Québec, Marc, Tan, gua, David, Jacob, Gauthier, Québec, François, ault, Coalition, avenir, Québec, Québec, Québec, solidaire, Manon, Mass, Québec, Parti, québécois'
+Match 1: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 18.7296)
+Match 2: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 19.8629)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.5985)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.5985)
+Match 5: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 21.6020)
+-----
+Query: ' québécois"'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.3049)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.3049)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 18.9758)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 20.3069)
+Match 5: 'Voiture de sport; Voiture de sport' (Distance: 21.5183)
+-----
+Query: ' quebec"'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.2429)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.2429)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 27.0025)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 28.7121)
+Match 5: 'Voiture de sport; Voiture de sport' (Distance: 28.8321)
+-----

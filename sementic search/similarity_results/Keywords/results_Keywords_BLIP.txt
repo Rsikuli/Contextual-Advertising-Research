@@ -1,0 +1,359 @@
+Semantic Search Results for Keywords with BLIP
+==================================================
+Query: 'éta, mine, pollen, dia, lyse, chocolat, lit, lip, hrys, thème, mar, guer, ites, palmier, gou, tier, diarrhée'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.0606)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 24.8901)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 25.9336)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.0469)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 26.1792)
+-----
+Query: 'Lyn, Graham, maire, ton, ton, ADO, Les, Mont, ton, Lyn, Graham, Québec'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.4374)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.0028)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.6961)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 27.0924)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 27.3597)
+-----
+Query: 'maire, wan, ville, municipalité, wan, ville, Fri, municipalité, Fri, wan, ville, wan, ville, maire, municipalité, municipalité'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 20.4440)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 24.2606)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.0607)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.6088)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 26.2950)
+-----
+Query: 'People, Michelle, iff, Pink, Video, Music, Awards, Pink, Jennifer, Lopez, Time, Jennifer, Lopez, Ker, Washington, Bron, Hugh, Jack, man, han, Mark, Justin, Trudeau, sha, rah, Win, way, Johnson, Instagram, Johnson, rock, star'
+Match 1: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 23.7284)
+Match 2: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 24.4542)
+Match 3: 'un gros plan d'une femme dans une robe blanche et un homme dans un costume noir' (Distance: 26.4389)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 26.5244)
+Match 5: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.5287)
+-----
+Query: 'licate, putation, ift, ike, Jon, 2016, Ken, ake, len, Calvin, Harris, Tom, les, ton, Joe, ift, Gra, Elizabeth, Hur, ley, Gra, Elizabeth, Hur, ley, Divin, Brown, Gra, 1995, Anna, ber, stein, ing, lan, Hong, Paul, New, man, Whi, ney, Houston, Bob, Kri'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.6057)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.9912)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.1358)
+Match 4: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.1067)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.8831)
+-----
+Query: 'nutritionniste, kou, USS, Est, rie, ologie, dia, trie, dia, trie, cancer, USS, nutritionniste, nutrition, kou'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 25.3074)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.5286)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 29.8847)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 30.6863)
+Match 5: 'un gros plan d'un panneau avec une planche de surf dessus' (Distance: 31.1023)
+-----
+Query: 'Amour, est, dans, pré, Rox, ton, Pon, télé, réalité, Marie, <unk>, Janvier, Time, Square, tournage, Att, actions, Images, Marie, <unk>, Janvier, des, monde, Amour, est, dans, pré, tour, rôles'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 19.4078)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 20.0989)
+Match 3: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 20.6864)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.0912)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.9104)
+-----
+Query: 'Jean, Pierre, Bac, Soleil, César, meilleur, acteur, Les, Bac, Agnès, oui, Jean, Pierre, Bac, Cast, lion, Algérie, Cannes, Jean, Pierre, Bac, Paris, Tout, simplement, Jean, Pierre, Bac, grand, pardon, acteur, Sub, way, Luc, Besson, 1987, anniversaire, inter, Jac, Cuisine, dépendance'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.6602)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 20.9193)
+Match 3: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 22.1529)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.1632)
+Match 5: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 24.4263)
+-----
+Query: 'Bro, mont, Canton, Est, monde, Journées, culture, ton, Rachel, Gren, ram, iste, Journées, culture, Mer, ville, Colombie, Britannique, céramique, Gren, Journées, culture'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 19.0461)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 19.3132)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.5617)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 24.6701)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 25.7936)
+-----
+Query: 'Jean, Marc, Vallée, Québec, Vallée, années, réalisateur, caméra, Vallée, tournage, Café, Flore, Vallée, champ, contre, champ, cinéma, direct, caméra, Vallée, Vallée'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.7896)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.3004)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.8875)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 22.5563)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 24.6618)
+-----
+Query: 'Ottawa, Parti, québécois, François, ault, Ottawa, François, ault, gouvernement, Parti, libéral, Parti, libéral, Québec, Marc, Tan, gua, Québec, Parti, québécois, Parti, québécois, Salon, bleu, Paul, Pierre, Pla, mond, François, ault'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 22.2302)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.7398)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 27.8337)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 29.2562)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 29.5089)
+-----
+Query: 'est'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 12.2809)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 13.4098)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 13.6791)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 14.3306)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 15.5116)
+-----
+Query: 'États, Unis, Harvard, Business, Review, Beau'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 15.3528)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.1363)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.7240)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 24.1059)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 24.1533)
+-----
+Query: 'José, cours, ière, USS, Mauricie, Centre, Québec, contraception, José, cours, ière, José, santé, communautaire'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.9691)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 19.6571)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.5996)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.6729)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 24.9470)
+-----
+Query: 'Dublin, Gal, way, Cor, Dublin, Gal, way, Cor, Cor, Gal, way, Qui, ateur, Copenhague, Danemark, Sara, Bosnie, Her, égo, vine, Cor, Google, Cor, cathédrale, San, Francisco, comté, Cor, Cor, Titan, Cor'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 24.8574)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.4773)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.5403)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 27.0554)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 27.4748)
+-----
+Query: 'Tournoi, international, hockey, Québec, Montréal, Centre, Bell, ukrainien, Martin, Louis, Bru, ins, junior, Boston, Québec, Québec, hockey, Québec, Martin, Louis, Alex, Bel, ile'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 28.9355)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.2713)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 30.9977)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 33.3688)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 34.0771)
+-----
+Query: 'Inter, ligne, minimum, Québec, Canada, toxico, mani'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 22.9914)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.4853)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 28.0049)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 29.3827)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.0930)
+-----
+Query: 'Ville, Montréal, incendie'
+Match 1: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 28.3308)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 28.6856)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.6377)
+Match 4: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 31.4575)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 32.6735)
+-----
+Query: 'Québec, Québec, France, France, Nantes, bal, oire, Mal, Saint, ach, France, Saint, ach, Chalet, 2020'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 19.5218)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.7829)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 27.3933)
+Match 4: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 30.2114)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 31.2470)
+-----
+Query: 'EAU, Québec, Centre, des, congrès, Hilton, Québec, David, errière, Québec, EAU, Québec, EAU, EAU, EAU, EAU, scène'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.9571)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.7361)
+Match 3: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 23.8352)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.9388)
+Match 5: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 25.2032)
+-----
+Query: 'Parti, Québécois, Parti, libéral, Québec, solidaire, Joël, eau, Québec, <unk>, les, Joël, eau, Marc, Tan, gua, Québec, solidaire, Vincent, Mari, sal'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.3647)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 27.8150)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.4977)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 29.5429)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.6570)
+-----
+Query: 'Tesla, 2010, Mus, Tesla, Mus, Mus, Accord, Paris, Mus'
+Match 1: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.7232)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 24.5098)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.5642)
+Match 4: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 26.7764)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 26.9223)
+-----
+Query: 'Tommy, mer, chanteur, rock, Eure, peur, Roméo, Juliette, chanteur, Tommy, mer, Voix, Mathieu, Lang, lois, Mario, Pel, chat, Corne, ille, Fall, ing, Harry'
+Match 1: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 24.1018)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 25.6387)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.5860)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 27.1327)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 28.2183)
+-----
+Query: 'trafic, stupéfiants, Saint, inthe, 2022, trafic, Saint, ude, Mont, éré, gie, Saint, inthe, Mont, éré, gie'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 14.8410)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 15.3093)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 16.5825)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 18.4822)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 18.7896)
+-----
+Query: 'Société, québécoise, cannabis, char, qui, bœuf, anglais, cannabis, Société, ont, rienne, cannabis, Québec, chocolat, comestible, cannelle, assis, Sol, char, qui, bœuf, char, qui, boeuf, prêt, cannabis, cannabis, chocolat, char, qui, bœuf'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.9481)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.4918)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 24.5482)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.4566)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 26.1639)
+-----
+Query: 'Louis, Mor, isse, crypto, actifs, lex, crypto, actifs, administration, provisoire'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.4676)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 24.0744)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.1298)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 25.1592)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.5674)
+-----
+Query: 'Facebook, pont, Fernand, bon, Joan, Belle, rose, pont, pont, conseil, municipal, pont, pont'
+Match 1: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 21.2243)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.4046)
+Match 3: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 22.1643)
+Match 4: 'un gros plan d'un panneau avec une planche de surf dessus' (Distance: 23.8325)
+Match 5: 'un dépliant pour un bien immobilier en france' (Distance: 24.1558)
+-----
+Query: 'Four, nier, vaccin, Registre, vaccination, Québec, vaccin, Four, nier, passeport, vaccin, Québec, Four, nier, USS, vaccin, vaccin'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.7777)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 28.5823)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 29.5290)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.2440)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 30.8869)
+-----
+Query: 'Syrie, Antonio, terre, Syrie, Turquie, catastrophe, Turquie, Syrie, Turquie, Syrie, Ant, tremblement, terre, tremblement, terre, février'
+Match 1: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 24.6432)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.1546)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.4204)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 26.1913)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 27.3846)
+-----
+Query: 'Washington, espion, Canada, Maison, Blanche, États, Unis, Chine, Pékin'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 26.0351)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.1558)
+Match 3: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 26.7390)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 28.4520)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 28.6429)
+-----
+Query: 'fusillade, Maison, Blanche, Karine, Jean, Pierre, Twitter, Joe, den, Mich, igan, tch, Lan, ing, Mich, igan, Mich, igan, Mich, igan, base, ball, meurtre'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 19.3594)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.1844)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.6224)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 23.6380)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.6593)
+-----
+Query: 'Mich, igan, Gre, tch, Whi, mer, Mich, igan, Lan, ing, Grands, Lac, Canada, Mich, den, Maison, Blanche, Park, land, Floride, Joe, den'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.1762)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.3969)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.9376)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 25.0463)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.1473)
+-----
+Query: '2017, Donald, Trump, Maison, Caroline, Sud, Donald, Trump, États, Unis, Nik, ley, Nik, ley, Charles, ton, Caroline, Sud, Caroline, Sud, Joe, den, Washington, Nik, ley, Donald, Trump, Donald, Trump, Mike, ence, Mike, Pompe'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 26.7871)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 28.9186)
+Match 3: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 29.3457)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.8637)
+Match 5: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 29.9776)
+-----
+Query: 'récession, Microsoft, Rac, ont, eur, fusion, acquisition, Royaume, fusion, acquisition, Mark, link, récession, Beau'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 22.4361)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.6659)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 27.0113)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 27.1746)
+Match 5: 'image arafed d'un ordinateur portable avec une étiquette de prix sur elle' (Distance: 27.9775)
+-----
+Query: 'commerce, ligne, boutique, physique, Internet, addy, ness, boutique, physique, boutique, physique, Beau'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 23.5524)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 24.4005)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.7444)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 27.0889)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 27.8385)
+-----
+Query: 'Frédéric, Pierre, Catherine, uff, ront, Angel, Cad, Marie, Hélène, beau, cher, eau, comédie, Maison, Radio, Canada, Montréal, Rica, Tro, télé, série, ume, lage, Frédéric, Pierre, Louis, Mor, isse, tte, Louis, Philippe, olet, Mélanie'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 17.4040)
+Match 2: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 20.5376)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.0965)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.2911)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 24.0313)
+-----
+Query: 'Frédéric, Pierre, Catherine, uff, ront, Angel, Cad, Marie, Hélène, beau, cher, eau, comédie, Maison, Radio, Canada, Montréal, Rica, Tro, télé, série, ume, lage, Frédéric, Pierre, Louis, Mor, isse, tte, Louis, Philippe, olet, Mélanie'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 17.4040)
+Match 2: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 20.5376)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.0965)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.2911)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 24.0313)
+-----
+Query: 'Louis, Mor, isse, crypto, actifs, lex, crypto, actifs, administration, provisoire'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.4676)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 24.0744)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.1298)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 25.1592)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.5674)
+-----
+Query: 'bénévolat, Martin, monde, Joan, Martin, Montréal, Planète, action, Gran, Joan, Martin, Gran, Planète, action, Gran, Joan, Martin, Planète, action, Joan, Martin, asso, thérapeute'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.3848)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.9985)
+Match 3: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 23.0245)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.2694)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 23.8601)
+-----
+Query: 'Tremblay, Martin, Car, pent, ier, jumelé, monde, cor, Car, pent, ier, Tremblay, Martin, Car, pent, ier, 2020, Martin, Car, pent, ier, Martin, Car, pent, ier, Martin, Car, pent, ier'
+Match 1: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.2581)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 26.1900)
+Match 3: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 26.3935)
+Match 4: 'un gros plan d'une voiture de course avec un fond rouge et jaune' (Distance: 26.5960)
+Match 5: 'un gros plan d'une voiture avec un panneau qui dit, ' lionq5223 '' (Distance: 27.4776)
+-----
+Query: 'Canada, Jeux, hiver, Canada, hockey, Ligue, hockey, junior, majeur, Québec, est, Canada, Europe, olympiques, Char, est, Québec, Maritime, hockey, junior, Québec, Québec, États, Unis, est, hockey, Québec, Québec'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 32.2992)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 34.6695)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 36.1111)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 36.8501)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 37.9314)
+-----
+Query: 'Syrie, Turquie, Europe, Bab, Sal, ama, Turquie, Genève, Syrie, Turquie, Antonio, terre, Bachar, Assad, Bab, awa, Turquie, Programme, alimentaire, mondial, arma, Syrie, Turquie'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 27.9218)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.0292)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 29.2174)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 29.3746)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 32.0120)
+-----
+Query: 'Nik, ley, Donald, Trump, États, Unis, Donald, Trump, Nik, ley, 2018, Bret, avan, ugh, Donald, Trump, Nik, ley, Fox, News, eau, 2004, Caroline, Sud, droite'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 26.2397)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 28.0587)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 28.1533)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 28.3370)
+Match 5: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 29.0704)
+-----
+Query: 'Québec, ham, Charles, Henri, ousse, gues, Art, Char, donna, canne, berg, jus, Jean, Marc, Bro, card, Chab, lis, Sainte, laire'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.1239)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.7923)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.7879)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 24.4234)
+Match 5: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 27.6042)
+-----
+Query: 'Tournoi, international, hockey, Québec, Montréal, Centre, Bell, ukrainien, équipe, Québec, Martin, Louis, Bru, ins, junior, Boston, Québec, Québec, Québec, Martin, Louis, Alex, Bel, ile'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 28.4414)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.1881)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 30.7296)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 33.0543)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 33.8227)
+-----
+Query: 'YouTube, Shak, ira, dans, dans, psychologie, gni, tive, kar, otto, psychologie, gni, tive, Tal'
+Match 1: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 25.6881)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.4617)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 27.0750)
+Match 4: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.4081)
+Match 5: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 28.2067)
+-----
+Query: 'essa, Mol, vie, Ukraine, essa, Nova, akh, couvre, feu, essa, jaune, monde'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.6638)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.2656)
+Match 3: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 23.0502)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 23.5540)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 26.2401)
+-----
+Query: 'Chine, Montréal, Canada, Bro, mont, Canton, Bro, mont'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.3232)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 27.0550)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 28.8355)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 29.3773)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 29.6224)
+-----
+Query: 'Québec, garderie, Parti, libéral, Québec, Marc, Tan, gua, David, Jacob, Gauthier, Québec, François, ault, Coalition, avenir, Québec, Québec, Québec, solidaire, Manon, Mass, Québec, Parti, québécois'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 22.1881)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 28.1475)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 28.6388)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 29.5963)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 30.5001)
+-----
+Query: ' québécois"'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 14.9804)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 18.4327)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.1222)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 23.2459)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.4976)
+-----
+Query: ' quebec"'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 24.7793)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 26.9023)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 30.0087)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.3999)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 30.9098)
+-----

@@ -1,2 +1,3 @@
 # Ignore a specific file
 Publicity Subject Extraction/common/Dictionnaries/Nom.csv
+*.csv

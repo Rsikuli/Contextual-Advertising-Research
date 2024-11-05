@@ -1,0 +1,359 @@
+Semantic Search Results for Caption with BLIP
+==================================================
+Query: 'Si vous envoyez des fleurs coupées ou une plante en pot à votre bien-aimé(e) pour la Saint-Valentin, choisissez celles qui sont sans danger pour ses animaux de compagnie.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 18.4045)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 19.5595)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.4575)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.5013)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 25.6070)
+-----
+Query: 'Maire de Sutton, Robert Benoît se dit fier du résultat et du travail accompli par le comité de pilotage présidé par sa collègue, la conseillère Lynda Graham.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.2799)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.2422)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.5875)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 24.2461)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 24.9635)
+-----
+Query: 'La mairesse de Cowansville, Sylvie Beauregard'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 13.7384)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 17.6993)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 18.8626)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 19.1909)
+Match 5: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 20.3181)
+-----
+Query: 'nan'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.8981)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.3852)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.4144)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 26.7559)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.8241)
+-----
+Query: 'Bobbi Kristina Brown et Nick Gordon'
+Match 1: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 24.9213)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 25.2270)
+Match 3: 'un gros plan d'une femme dans une robe blanche et un homme dans un costume noir' (Distance: 27.0303)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 28.0134)
+Match 5: 'Arafed publicité pour un nouveau spectacle de voiture avec une femme debout à côté de lui' (Distance: 28.0860)
+-----
+Query: 'Sakouna Phouttama est nutritionniste en pédiatrie à l’Hôpital Fleurimont.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.1220)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 20.2932)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.2425)
+Match 4: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 22.8241)
+Match 5: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.8090)
+-----
+Query: 'Marie-Ève Janvier animera À tour de rôles\xa0à compter du 14 septembre à TVA.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 14.2670)
+Match 2: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 17.9262)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 17.9334)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 18.1811)
+Match 5: 'un gros plan d'une femme dans une robe blanche et un homme dans un costume noir' (Distance: 19.4894)
+-----
+Query: 'Christiane Millet et Jean-Pierre Bacri dans Le goût des autres.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 12.6805)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 17.0700)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 17.1558)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 18.5198)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 19.2331)
+-----
+Query: 'nan'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.8981)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.3852)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.4144)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 26.7559)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.8241)
+-----
+Query: 'Jean-Marc Vallée et Jake Gyllenhaal lors de la présentation du film Demolition au Festival de Toronto.'
+Match 1: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 22.4821)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 22.6032)
+Match 3: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 22.9702)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.2242)
+Match 5: 'un gros plan d'une femme dans une robe blanche et un homme dans un costume noir' (Distance: 23.2592)
+-----
+Query: 'François Legault et Justin Trudeau'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.1956)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.7029)
+Match 3: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 30.1890)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.4471)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 31.1813)
+-----
+Query: 'Cet individu est le deuxième recherché par les policiers pour le vol commis au restaurant qui a pignon sur la rue Principale.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 15.7033)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 17.1788)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 17.8024)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 19.4997)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 21.5159)
+-----
+Query: 'Customer review satisfaction feedback survey concept. User give rating to service experience on online application. Customer can evaluate quality of service leading to reputation ranking of business.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 26.4414)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 30.0727)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 30.4973)
+Match 4: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 30.5168)
+Match 5: 'image arafed d'un ordinateur portable avec une étiquette de prix sur elle' (Distance: 33.0290)
+-----
+Query: 'Josée Lacoursière est infirmière en milieu scolaire au CIUSSS-MCQ.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 15.6017)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 19.9051)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 20.0190)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.6744)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 22.5426)
+-----
+Query: 'Le maisons du Deck of Cards de Cobh sont particulièrement photogéniques.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 20.1035)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.7379)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 21.8567)
+Match 4: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 22.2667)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.9231)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'Un septuagénaire a été retrouvé mort lundi soir dans un logement incendié de l’arrondissement Le Sud-Ouest, à Montréal.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.6516)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 17.6609)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 20.5747)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.1751)
+Match 5: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 22.7261)
+-----
+Query: 'La famille Fenot-Hougard.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.6506)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 18.5927)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 20.6465)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 20.9195)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 23.9218)
+-----
+Query: 'Entrevue avec le président de RIDEAU, David Laferrière.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 12.5485)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 16.9121)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 17.6413)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 18.3515)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 19.9322)
+-----
+Query: 'Joël Arseneau, député péquiste des îles-de-la-Madeleine'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 10.3730)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 15.8350)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 16.5893)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 17.3415)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 18.7734)
+-----
+Query: 'Une voiture rechargeable'
+Match 1: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 9.0368)
+Match 2: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 9.8822)
+Match 3: 'un gros plan d'une voiture avec une lumière rouge sur le dos' (Distance: 10.3056)
+Match 4: 'un gros plan d'une voiture de course avec un fond rouge et jaune' (Distance: 10.5244)
+Match 5: 'un gros plan d'une voiture qui descend une route près d'un bois' (Distance: 11.5730)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'Au prix de 16,90$, le comestible contient 9 mg de THC, séparé en deux sachets sous vide de 4,5 mg.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 19.4984)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 19.7376)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.9849)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.6521)
+Match 5: 'image arafed d'un ordinateur portable avec une étiquette de prix sur elle' (Distance: 23.2026)
+-----
+Query: 'Louis Morisset, président-directeur général de l’Autorité des marchés financiers. Archives La Presse'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 13.1811)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.7779)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.9340)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.8717)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 24.4676)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'Une employée du CIUSSS de la Capitale-Nationale a été condamnée à des travaux communautaires pour avoir créé 4 faux passeports vaccinaux.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.9975)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.2567)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.9883)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 24.4021)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 25.4087)
+-----
+Query: 'Huit jours après le séisme en Turquie et en Syrie, l’aide humanitaire aux populations syriennes reste insuffisante, déplorent des responsables de l’organisation Mehad.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 17.6533)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.4946)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.5099)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.6982)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 24.6875)
+-----
+Query: 'La Chine a appelé mardi les États-Unis à mener une enquête approfondie sur ce qu’elle présente comme l’incursion répétée de ballons américains dans son espace aérien.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 24.7546)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 25.9631)
+Match 3: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 26.7603)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 27.4341)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 28.7367)
+-----
+Query: 'Des coups de feu ont été signalés sur le campus de Lansing, une ville à l’ouest de Détroit, et il est fait état de plusieurs blessés, a écrit le service de sécurité de l’Université sur Twitter, assurant que la police intervient.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 18.8371)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 20.6488)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.1518)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.3172)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 22.6607)
+-----
+Query: 'Students gather where flowers are being left at the Spartan Statue on the grounds of Michigan State University, in East Lansing, Mich., Tuesday, Feb. 14, 2023. A gunman killed several people and wounded others at Michigan State University. Police said early Tuesday that the shooter eventually killed himself. (AP Photo/Paul Sancya)'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.6910)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 24.2569)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 24.5370)
+Match 4: 'un gros plan d'un mannequin portant une robe au design noir et bleu' (Distance: 25.1713)
+Match 5: 'un gros plan d'un mannequin portant une robe au design noir et bleu' (Distance: 25.1713)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'Economic crisis concept shown by declining graphs and digital indicators overlap modernistic city background. Double exposure.'
+Match 1: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 22.5681)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.7077)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.0091)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 23.8398)
+Match 5: 'un dépliant pour un bien immobilier en france' (Distance: 24.0923)
+-----
+Query: 'Senior couple choosing smartphone while shopping in tech store.'
+Match 1: 'image arafed d'un ordinateur portable avec une étiquette de prix sur elle' (Distance: 38.0912)
+Match 2: 'un gros plan d'une femme dans une robe blanche et un homme dans un costume noir' (Distance: 38.8192)
+Match 3: 'un dépliant pour un bien immobilier en france' (Distance: 41.5329)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 41.7467)
+Match 5: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 41.9176)
+-----
+Query: 'Une partie de la distribution de la télésérie humoristique Lakay Nou'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.0367)
+Match 2: 'Arafed publicité pour un nouveau spectacle de voiture avec une femme debout à côté de lui' (Distance: 20.8170)
+Match 3: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 20.8686)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.1069)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 21.4822)
+-----
+Query: 'Une partie de la distribution de la télésérie humoristique Lakay Nou'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.0367)
+Match 2: 'Arafed publicité pour un nouveau spectacle de voiture avec une femme debout à côté de lui' (Distance: 20.8170)
+Match 3: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 20.8686)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.1069)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 21.4822)
+-----
+Query: 'Louis Morisset, président-directeur général de l’Autorité des marchés financiers.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.0192)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 24.6230)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.4600)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.2118)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 27.4886)
+-----
+Query: 'Joanie Martin raconte avoir offert de la nourriture aux itinérants qui ont campé durant quelques mois, l’été dernier, au parc Saint-Antoine-de-Padoue, à Granby.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 16.7911)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 18.6838)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 20.1563)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.0678)
+Match 5: 'vue sur un resort avec piscine et plage' (Distance: 22.2187)
+-----
+Query: 'Le coroner Luc Malouin lors de la première journée des audiences publiques sur la mort de Norah et Romy Carpentier, à Québec, le 13 février'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 17.6275)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 19.0710)
+Match 3: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 19.8998)
+Match 4: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 20.0637)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 20.9736)
+-----
+Query: 'La ministre Isabelle Charest souhaite voir la fin des bagarres dans le hockey junior majeur à travers le Canada.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 24.2540)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.7249)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.7868)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 26.7962)
+Match 5: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 27.7542)
+-----
+Query: 'Huit jours après le séisme en Turquie et en Syrie, l’aide humanitaire aux populations syriennes reste insuffisante, déplorent des responsables de l’organisation Mehad.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 17.6533)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 21.4946)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 21.5099)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.6982)
+Match 5: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 24.6875)
+-----
+Query: 'No caption available'
+Match 1: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 25.3970)
+Match 2: 'un gros plan d'une affiche avec une femme assise à une table' (Distance: 25.6817)
+Match 3: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 26.4127)
+Match 4: 'un dépliant pour un bien immobilier en france' (Distance: 27.7505)
+Match 5: 'une affiche pour un théâtre avec un groupe de personnes assis autour d'une table' (Distance: 27.7633)
+-----
+Query: 'Artis Chardonnay Vin de France'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 15.1435)
+Match 2: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 18.4375)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 18.9291)
+Match 4: 'un gros plan d'une couverture de livre jaune avec une image en noir et blanc' (Distance: 22.9768)
+Match 5: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 25.3659)
+-----
+Query: 'Les jeunes de 11 et 12 ans de l’équipe ukrainienne, déplacés par la guerre dans leur pays, ont pu côtoyer mardi nul autre club que le célèbre Canadien de Montréal.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 18.9168)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 20.2736)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 21.5214)
+Match 4: 'une affiche pour le concert les violons du roi avec Valerie Middot' (Distance: 22.7625)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 22.8973)
+-----
+Query: 'En m’exerçant sur My Money Don’t Jiggle Jiggle, j’ai découvert, ironiquement, à quel point je devrai travailler pour apprendre une chorégraphie de 30 secondes.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 21.5969)
+Match 2: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.7213)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 23.9708)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 25.4158)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 26.9274)
+-----
+Query: 'L’électricité fait défaut partout dans la ville depuis quelques jours. N’empêche, des ilots de lumière percent quelques pans de rue. Hôtels, restaurants et commerces affichent ouverts grâce aux génératrices.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 11.8346)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 13.8763)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 14.7513)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 14.7762)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 15.4998)
+-----
+Query: 'Les samedis soirs sont très achalandés à la station de ski de Bromont.'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 19.7661)
+Match 2: 'un gros plan d'un panneau avec un fond de ciel et un fond du ciel' (Distance: 22.2793)
+Match 3: 'vue sur un resort avec piscine et plage' (Distance: 22.3736)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.7112)
+Match 5: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.1512)
+-----
+Query: 'Les députés de l’Assemblée nationale du Québec ont observé une minute de silence, mardi après-midi, en hommage aux victimes, témoins et intervenants de la tragédie survenue mercredi dernier dans une garderie de Laval.'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 20.9808)
+Match 2: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 22.4400)
+Match 3: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 22.5201)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 23.2322)
+Match 5: 'un gros plan d'une voiture garée devant un bâtiment' (Distance: 25.1093)
+-----
+Query: ' Manon'
+Match 1: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 29.9486)
+Match 2: 'un dépliant pour un bien immobilier en france' (Distance: 30.3694)
+Match 3: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 31.4029)
+Match 4: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 32.0290)
+Match 5: 'une bannière verte et noire avec une photo d'un homme en costume' (Distance: 33.4203)
+-----
+Query: ' jamais'
+Match 1: 'un dépliant pour un bien immobilier en france' (Distance: 15.7310)
+Match 2: 'un mazda blanc cx - 3 garé sur une rue de la ville' (Distance: 15.7796)
+Match 3: 'une affiche pourpre avec un texte blanc qui lit, vos netes pas tout seu sur la route' (Distance: 16.9696)
+Match 4: 'un gros plan d'une voiture garée sur une rue avec une légende en français' (Distance: 17.3662)
+Match 5: 'une affiche rouge avec un texte blanc qui lit vos réseaux pas tout seul sur la route' (Distance: 19.5353)
+-----

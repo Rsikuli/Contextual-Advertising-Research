@@ -1,0 +1,359 @@
+Semantic Search Results for Headline with SAM-ViT
+==================================================
+Query: 'Saint-Valentin: attention aux animaux de compagnie'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.1100)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.1100)
+Match 3: 'horloge analogique; casquette de bain; capuchon de natation; maillot; T-shirt; Chemise de tee; requin tigre; Galeocerdo cuvieri; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 24.4975)
+Match 4: 'le piège à souris; ' (Distance: 24.6358)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 25.3122)
+-----
+Query: 'Sutton dévoile sa nouvelle politique des familles et des aînés'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.9052)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.9052)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 22.5157)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 23.2560)
+Match 5: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 23.8616)
+-----
+Query: 'Cowansville adopte un plan d’action pour l’agriculture urbaine'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.6644)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.6644)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 23.0564)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 24.2077)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 24.5064)
+-----
+Query: 'Pink, la plus belle'
+Match 1: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 20.8323)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.9074)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.9074)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 21.8074)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 22.1848)
+-----
+Query: 'Taylor Swift accusée de plagiat'
+Match 1: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 26.0630)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 26.5370)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 26.5370)
+Match 4: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 26.9311)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 27.9728)
+-----
+Query: 'Favoriser la guérison par l’alimentation'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.4217)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.4217)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 22.2973)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 22.4020)
+Match 5: 'le piège à souris; ' (Distance: 24.0327)
+-----
+Query: 'À tour de rôles: le nouveau défi de Marie-Ève Janvier'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.0475)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.0475)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 14.1396)
+Match 4: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 15.1309)
+Match 5: 'bibliothèque; palais; bibliothèque' (Distance: 16.3647)
+-----
+Query: 'Jean-Pierre Bacri meurt d’un cancer'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.3602)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 21.3602)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 22.6950)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 24.5918)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 24.8039)
+-----
+Query: 'Rachel Grenon a les deux mains dans la culture'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8650)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.8650)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 20.5816)
+Match 4: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 20.7997)
+Match 5: 'le piège à souris; ' (Distance: 21.2037)
+-----
+Query: 'Jean-Marc Vallée, cinéaste de la complexité humaine'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.6616)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.6616)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 16.7667)
+Match 4: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 18.4339)
+Match 5: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 18.8825)
+-----
+Query: 'Transferts en santé: un déséquilibre fiscal, dit François Legault'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 22.6620)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 22.6620)
+Match 3: 'Voiture de sport; Voiture de sport' (Distance: 23.6112)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 24.9189)
+Match 5: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 25.1730)
+-----
+Query: 'Le restaurant Pavane cambriolé'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.0296)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.0296)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 17.1341)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 17.5792)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 18.4451)
+-----
+Query: 'Comment améliorer la satisfaction de la clientèle'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 23.5321)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 23.5321)
+Match 3: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 24.3332)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 24.4180)
+Match 5: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 24.7760)
+-----
+Query: 'Des enjeux bien plus lourds qu’une fin de semaine sur trois'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 9.9287)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 9.9287)
+Match 3: 'Voiture de sport; Voiture de sport' (Distance: 12.3207)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 14.0643)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 14.5820)
+-----
+Query: 'Le dilemme d’inclure Cork dans l’itinéraire'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 22.1584)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 22.1584)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 22.8665)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 23.2519)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 24.7967)
+-----
+Query: 'Le Canadien accueille l’équipe de hockey pee-wee ukrainienne'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 25.3062)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 25.3062)
+Match 3: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 25.9238)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 26.2477)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 26.6385)
+-----
+Query: 'Faute d’une ligne nocturne, Interligne renvoie ses appels au premier ministre'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.0648)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.0648)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 14.1158)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 15.2523)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.3099)
+-----
+Query: 'Un septuagénaire retrouvé sans vie dans son logement incendié à Montréal'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0629)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0629)
+Match 3: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; masque à oxygène; pectoral; sous-égide; égis' (Distance: 15.9584)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.5886)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 16.7802)
+-----
+Query: 'De la France au Québec, une longue histoire d’amour'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.5097)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.5097)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 18.0857)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 19.7523)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 19.9049)
+-----
+Query: 'RIDEAU émet cinq recommandations pour aider l’industrie de la scène'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.1711)
+Match 2: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 14.9019)
+Match 3: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 15.1839)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 16.0302)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.1482)
+-----
+Query: 'Entreprises ambulancières: les élus veulent que Québec fasse le ménage'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.3684)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.3684)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 20.6935)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 23.0365)
+Match 5: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 23.2999)
+-----
+Query: 'Les hybrides rechargeables nous feront-elles manquer nos cibles de GES ?'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.7312)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.7312)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 18.5905)
+Match 4: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 19.8597)
+Match 5: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 20.0337)
+-----
+Query: 'Mathieu Langlois et Tommy Demers à La Voix'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.3314)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.3314)
+Match 3: 'BD; Hautbois; Petit-fils; autbois; maillot; T-shirt; Chemise de tee; S'il vous plaît.; Tam-tam; oscillation; Cravate Windsor; Hautbois; Petit-fils; autbois; basson' (Distance: 14.4982)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 15.5384)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.1927)
+-----
+Query: 'Un suspect recherché se livre aux policiers'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.7338)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.7338)
+Match 3: 'le piège à souris; ' (Distance: 16.4299)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 16.8408)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 17.3616)
+-----
+Query: 'Du jerky infusé au pot à la SQDC'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 8.2201)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 8.2201)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 9.0637)
+Match 4: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 10.3126)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 10.7796)
+-----
+Query: 'L’AMF, ennemie des influenceurs financiers'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.4818)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.4818)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 25.7617)
+Match 4: 'le piège à souris; ' (Distance: 26.1297)
+Match 5: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 26.4758)
+-----
+Query: 'Un pont qui déborde pour rien'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.9530)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 17.9530)
+Match 3: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 21.4651)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 22.3582)
+Match 5: 'Choisir; plectrum; plectron; pont suspendu; Amphibies; Véhicule amphibie; golfcart; chariot de golf; convertibles' (Distance: 22.7735)
+-----
+Query: 'Coupable d’avoir créé quatre faux passeports vaccinaux'
+Match 1: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 17.5527)
+Match 2: 'masque; masque; horloge numérique; Masque de ski; Aide à la bande' (Distance: 17.5576)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 18.2712)
+Match 4: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.2884)
+Match 5: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.2884)
+-----
+Query: 'Séisme: premier convoi d’aide vers les zones rebelles du nord de la Syrie'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.9580)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 19.9580)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 23.3880)
+Match 4: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 23.9852)
+Match 5: 'masque; masque; horloge numérique; Masque de ski; Aide à la bande' (Distance: 24.0034)
+-----
+Query: 'La Maison-Blanche s’efforce de dégonfler l’affaire des objets volants'
+Match 1: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 13.8945)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0852)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.0852)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 15.3290)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; masque à oxygène; pectoral; sous-égide; égis' (Distance: 16.0266)
+-----
+Query: 'Trois morts après qu’un tireur a ouvert le feu à l’Université d’État du Michigan, suicide du tireur'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.5262)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 13.5262)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 14.5930)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 15.3038)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; masque à oxygène; pectoral; sous-égide; égis' (Distance: 15.3829)
+-----
+Query: 'Assez: Biden s’insurge après de nouveaux homicides sur un campus universitaire'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.8136)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.8136)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 17.8652)
+Match 4: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 18.5422)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 19.3969)
+-----
+Query: 'La républicaine Nikki Haley candidate à la présidentielle américaine de 2024'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.8782)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.8782)
+Match 3: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 29.8873)
+Match 4: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 29.8969)
+Match 5: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 30.9201)
+-----
+Query: 'Récession: une occasion de fusion-acquisition'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 23.4065)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 23.4065)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 25.2647)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 26.7764)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 26.9141)
+-----
+Query: 'Les boutiques ont encore leur place'
+Match 1: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 15.0242)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.7717)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.7717)
+Match 4: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 17.9261)
+Match 5: 'Distributeur automatique de billets; Distributeur de liquidités; guichet automatique; guichet automatique; guichet automatique; guichet automatique; ATM; rondelle; rondelle de hockey; Casque de football; crochet; griffe; casquette de bain; capuchon de natation; écran; Écran CRT; Choisir; plectrum; plectron; écran; Écran CRT; Choisir; plectrum; plectron; Plat de pétri; allumette' (Distance: 17.9548)
+-----
+Query: 'Une famille haïtienne au coeur d’une nouvelle télésérie humoristique de Radio-Canada'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.1425)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.1425)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 27.9787)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 28.1624)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 28.4141)
+-----
+Query: 'Une famille haïtienne au coeur d’une nouvelle télésérie humoristique à Radio-Canada'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.2434)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 27.2434)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 27.9264)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 27.9836)
+Match 5: 'masque; masque; horloge numérique; Masque de ski; Aide à la bande' (Distance: 28.3436)
+-----
+Query: 'L’AMF, ennemi des influenceurs financiers'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.3157)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 20.3157)
+Match 3: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 25.4564)
+Match 4: 'le piège à souris; ' (Distance: 26.2529)
+Match 5: 'imprimante; chauffage des locaux; modem; Soutien-gorge du cou; Lecteur CD; fusil; lecteur de bande' (Distance: 26.3625)
+-----
+Query: 'Unis les dimanches pour les démunis'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.2941)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.2941)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 18.9555)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 20.0120)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 20.0206)
+-----
+Query: 'Martin Carpentier habité en tout temps d’une peur irrationnelle'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.8332)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.8332)
+Match 3: 'le piège à souris; ' (Distance: 19.3721)
+Match 4: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 21.0072)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 21.7763)
+-----
+Query: 'Charest cherchera l’appui des provinces pour interdire les bagarres au hockey junior'
+Match 1: 'Voiture de sport; Voiture de sport' (Distance: 15.0688)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.4593)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 15.4593)
+Match 4: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 17.1179)
+Match 5: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 17.3578)
+-----
+Query: 'Séisme: plus de 35 000 morts, les autorités face au défi de l’aide aux sans-abris'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.3491)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 14.3491)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 18.2251)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; masque à oxygène; pectoral; sous-égide; égis' (Distance: 18.4360)
+Match 5: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 18.5048)
+-----
+Query: 'Nikki Haley, de diplomate à candidate à la Maison-Blanche'
+Match 1: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 25.8195)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 26.0292)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 26.0292)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 27.6926)
+Match 5: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 28.1857)
+-----
+Query: 'Boire moins, boire mieux'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.5591)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 11.5591)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 14.5720)
+Match 4: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 15.4203)
+Match 5: 'Voiture de sport; Voiture de sport; atelier de tabac; Boutique de tabac; tabac; Voiture de sport; Voiture de sport; Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; horloge analogique; fourgonnette; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 15.7158)
+-----
+Query: 'Le Canadien a reçu l’équipe de hockey pee-wee ukrainienne'
+Match 1: 'Voiture de sport; Voiture de sport' (Distance: 23.4590)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.7065)
+Match 3: 'pectoral; sous-égide; égis; surjupe' (Distance: 24.7065)
+Match 4: 'fourgonnette; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Lecteur CD; fourgonnette; Lecteur CD; Voiture de sport; Voiture de sport; fourgonnette' (Distance: 26.1214)
+Match 5: 'Choisir; plectrum; plectron; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport; Voiture de sport' (Distance: 26.2034)
+-----
+Query: 'Ce que les TikTok peuvent vous apprendre sur la vie'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.4795)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.4795)
+Match 3: 'vis; bobine; spirale; volute; quinquennat; hélice; horloge numérique; balle de golf; chronomètre; Arrêter de regarder' (Distance: 20.4909)
+Match 4: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 20.8143)
+Match 5: 'horloge analogique; casquette de bain; capuchon de natation; maillot; T-shirt; Chemise de tee; requin tigre; Galeocerdo cuvieri; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 22.3426)
+-----
+Query: 'Entrevue avec Natasha Entrevue avec Natasha Entrevue avec Natasha Entrevue avec Natasha Et les oiseaux chantent à Odessa'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.7363)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 18.7363)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 20.6338)
+Match 4: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 20.9924)
+Match 5: 'd ' équipement; navette spatiale; robe académique; robe académique; robe du juge' (Distance: 21.1853)
+-----
+Query: 'L’identité du planchiste décédé à Bromont dévoilée'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 8.9391)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 8.9391)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 11.9566)
+Match 4: 'atelier de tabac; Boutique de tabac; tabac; tableau d'affichage; Cocker épagnel; Cocker anglais épagnel; Cocker; guitare électrique; pulvérisateur de cheveux; Hautbois; Petit-fils; autbois; Cravate Windsor; poudre de visage; guitare électrique; enrobé de laboratoire; enduit de laboratoire' (Distance: 13.1513)
+Match 5: 'Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; Choisir; plectrum; plectron; rondelle; rondelle de hockey; nématode; ver des nématodes; vers ronds; BD; horloge analogique' (Distance: 13.4452)
+-----
+Query: 'Minute de silence pour la tragédie de Laval au Salon bleu'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.3018)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 16.3018)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 16.9827)
+Match 4: 'chronomètre; Arrêter de regarder; ' (Distance: 18.8515)
+Match 5: 'bibliothèque; palais; bibliothèque' (Distance: 19.2900)
+-----
+Query: ' Mass'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 33.5557)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 33.5557)
+Match 3: 'chronomètre; Arrêter de regarder; ' (Distance: 35.1381)
+Match 4: 'Voiture de sport; Voiture de sport' (Distance: 39.7415)
+Match 5: 'bibliothèque; palais; bibliothèque' (Distance: 39.9096)
+-----
+Query: ' coalition'
+Match 1: 'pectoral; sous-égide; égis; surjupe' (Distance: 33.6793)
+Match 2: 'pectoral; sous-égide; égis; surjupe' (Distance: 33.6793)
+Match 3: 'BD; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière' (Distance: 37.1279)
+Match 4: 'nan' (Distance: 38.0445)
+Match 5: 'sifflement; tableau d'affichage; Veste de livre; Couverture de poussière; Veste de poussière; enveloppe-poussière; tableau d'affichage' (Distance: 38.7004)
+-----
