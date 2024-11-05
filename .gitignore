@@ -1,3 +1,9 @@
 # Ignore a specific file
 Publicity Subject Extraction/common/Dictionnaries/Nom.csv
+
+# Ignore all files with specific extensions
 *.csv
+*.txt
+*.json
+*.png
+*.DS_Store
