@@ -1,12 +1,12 @@
 import pandas as pd
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 """
 This script reads OCR results, SAM-ViT results, and BLIP results from CSV files, 
 concatenates their content, and saves the fused content into a new CSV file.
-
-Modules:
-    pandas: For data manipulation and analysis.
-    sys: Provides access to some variables used or maintained by the interpreter.
-    os: Provides a way of using operating system dependent functionality.
 
 File Paths:
     ocr_results_path (str): Path to the OCR results CSV file.
@@ -32,9 +32,6 @@ Steps:
     6. Create a DataFrame with the fused content.
     7. Save the fused content to a CSV file.
 """
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 # Define file paths
 ocr_results_path = '/Users/ramisafi/Downloads/Research Journal Project/Publicity_Subject_Extraction/OCRs/OCR_results.csv'

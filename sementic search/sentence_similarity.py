@@ -54,12 +54,12 @@ print("-" * 50)
 # Search the index
 for i, query in enumerate(queries):
     # Perform search for the top 5 closest vectors
-    D, I = index.search(np.array([query_embeddings[i]]), 5)
+    distances, indices = index.search(np.array([query_embeddings[i]]), 5)
     
     # Display results
     print(f"Query: '{query}'\n")
     for j in range(5):
-        print(f"Match {j+1}: '{data[I[0][j]]}' (Distance: {D[0][j]:.4f})")
+        print(f"Match {j+1}: '{data[indices[0][j]]}' (Distance: {distances[0][j]:.4f})")
     print("-----")
 
 # Open a text file to write the results
@@ -71,12 +71,12 @@ with open(output_path, 'w') as file:
     # Search the index and write results to the file
     for i, query in enumerate(queries):
         # Perform search for the top 5 closest vectors
-        D, I = index.search(np.array([query_embeddings[i]]), 5)
+        distances, indices = index.search(np.array([query_embeddings[i]]), 5)
         
         # Write query to the file
         file.write(f"Query: '{query}'\n")
         for j in range(5):
-            file.write(f"Match {j+1}: '{data[I[0][j]]}' (Distance: {D[0][j]:.4f})\n")
+            file.write(f"Match {j+1}: '{data[indices[0][j]]}' (Distance: {distances[0][j]:.4f})\n")
         file.write("-----\n")
     
     print(f"Results saved to {output_path}")

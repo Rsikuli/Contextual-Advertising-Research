@@ -178,11 +178,11 @@ with open(nom_file_path, 'rt') as csvfile:
 #Custom Addition to dictionary
 addition = ["hyundai", "hhyundai", "kona", "publicité", "tucson", "coops", "fierté",
              "incluant", "desjardins", "routière", "initiative", "inscrivez", "québec",
-               "sécurité", "musée", "redessiné", "quebec", "débutez", "goûtez", "l", "prévention",
+               "sécurité", "musée", "redessiné", "débutez", "goûtez", "l", "prévention",
                  "débardeurs", "c'est", "société", "s'en", "scfr", "jusqu'à", "régulier", "modèles",
                    "sélectionnés", "apéros", "broadway", "mazda", "cx-5", "intégrale", "série", "québécoise",
                      "présentent", "l'information", "dès", "journées", "côtés", "derrière", "résidence", "complète",
-                       "réalisàtion", "bien", "véhicules", "sans-frais", "blancs", "biologique", "biologiques"]
+                       "réalisàtion", "bien", "véhicules", "sans-frais", "blancs", "biologique", "biologiques", "à", "suggéré","eyesight", "Étang"]
 
 for mot in addition:
     addDictionary(mot)

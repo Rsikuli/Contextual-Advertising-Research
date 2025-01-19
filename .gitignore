@@ -1,5 +1,6 @@
 # Ignore a specific file
 Publicity Subject Extraction/common/Dictionnaries/Nom.csv
+.DS_Store
 
 # Ignore all files with specific extensions
 *.csv
@@ -7,6 +8,12 @@ Publicity Subject Extraction/common/Dictionnaries/Nom.csv
 *.json
 *.png
 *.DS_Store
+
+*.pyc
+__pycache__/
+
+
+env/
 
 
 # Ignore DS_Store files

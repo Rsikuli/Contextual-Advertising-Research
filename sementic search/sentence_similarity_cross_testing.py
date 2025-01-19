@@ -131,12 +131,12 @@ class SemanticSearch:
 
                     # Search and log results
                     for i, query in enumerate(query_embeddings):
-                        D, I = index.search(np.array([query]), 5)
+                        distances, indices = index.search(np.array([query]), 5)
 
                         # Write query and its results
                         file.write(f"Query: '{article_data[i]}'\n")
                         for j in range(5):
-                            file.write(f"Match {j+1}: '{pub_data[I[0][j]]}' (Distance: {D[0][j]:.4f})\n")
+                            file.write(f"Match {j+1}: '{pub_data[indices[0][j]]}' (Distance: {distances[0][j]:.4f})\n")
                         file.write("-----\n")
                 
                 print(f"Results saved to {combination_output_path}")
