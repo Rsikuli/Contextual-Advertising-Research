@@ -18,7 +18,7 @@ from Publicity_Subject_Extraction.common.dictionariesCreation import letter_dict
 # Paths for CSV files/Users/ramisafi/Downloads/OCR_results
 csv_easyocr_path = '/Users/ramisafi/Downloads/OCR_results/EasyOCR_results.csv'
 csv_paddleocr_path = '/Users/ramisafi/Downloads/OCR_results/PaddleOCR_results.csv'
-csv_fusion_path = '/Users/ramisafi/Downloads/OCR_results/Fusion_results.csv'
+csv_fusion_path = '/Users/ramisafi/Downloads/OCR_results/OCR_Fusion_results.csv'
 csv_summary_path = '/Users/ramisafi/Downloads/OCR_results/Summary_results.csv'
 
 

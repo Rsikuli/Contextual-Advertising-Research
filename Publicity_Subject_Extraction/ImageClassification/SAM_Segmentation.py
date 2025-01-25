@@ -94,20 +94,30 @@ with open(csv_file_path, mode='w', newline='') as csv_file:
 
                 width_org, height_org = image.shape[1], image.shape[0]
                 descriptions = []
+
+
                 for i in range(len(masks)):
+                    print(title)
+
+                    mask_content = masks[i]['segmentation']  # Binary mask
+                    non_zero_ratio = (mask_content > 0).sum() / mask_content.size
+
+                    # Filter based on content density
+                    if non_zero_ratio < 0.05 or non_zero_ratio > 0.3:  # Adjusted thresholds
+                        continue
+
                     x, y, width, height = masks[i]['bbox']
                     cropped_image = image[int(y):int(y+height), int(x):int(x+width)]
-                    
-                    if filter_image_by_resolution(cropped_image, width_org, height_org):
-                        filename = os.path.join(output_directory, str(i) + '.png')
-                        cv2.imwrite(filename, cropped_image)
-                        print(f"Image '{str(i)}.png' meets resolution criteria and saved to '{output_directory}'.")
+                    filename = os.path.join(output_directory, str(i) + '.png')
+                    cv2.imwrite(filename, cropped_image)
+                    print(f"Image '{str(i)}.png' meets resolution criteria and saved to '{output_directory}'.")
 
-                        # Assuming VitImageProvessorImgClassify is a function that takes an image path and returns a description
-                        description = VitImageProvessorImgClassify(filename)
-                        if isinstance(description, list):
-                            description = "; ".join(description)
-                        descriptions.append(description)
+
+                    # Assuming VitImageProvessorImgClassify is a function that takes an image path and returns a description
+                    description = VitImageProvessorImgClassify(filename)
+                    if isinstance(description, list):
+                        description = "; ".join(description)
+                    descriptions.append(description)
 
                 if descriptions:
                     # Convert each item in descriptions to a string and join them with a semicolon
